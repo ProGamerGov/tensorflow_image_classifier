@@ -57,5 +57,29 @@ Make your own classifier for scientists, then post a clone of this repo with you
 
 Credit goes to [Xblaster](https://github.com/xblaster) for the majority of this code. I've merely created a wrapper. 
 
+---
+
+Models 1-4 were trained to guess which neural network art service an image was created with. Model 5 was trained on idenfiying two neural network art services, and a specific artist.
+
+
+1. Model 1 has an accuracy of between 70-80%. 
+
+Categories: Dreamscope, Prisma, Ostagram
+
+2. Model 2 has a Final test accuracy = 61.0%. 
+
+Categories: Deepart, Pikazo, Prisma, Dreamscopeapp, Ostagram
+
+3. Model 3 has a Final test accuracy = 90.2%. 
+
+Categories: Deepart, Ostagram
+
+4. Model 4 has a Final test accuracy = 66.0%. 
+
+Categories: Deepart, Prisma, Pikazo, Ostagram
+
+5. Model 5 has a . 
+
+Categories: 
 
 
