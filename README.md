@@ -66,6 +66,8 @@ Credit goes to [Xblaster](https://github.com/xblaster) for the majority of this 
 
 - Models 1-4 were trained to guess which neural network art service an image was created with. Model 5 was trained on idenfiying two neural network art services, and a specific artist.
 
+- Label files for the models below, can be found in this Github repositiory [here](https://github.com/ProGamerGov/tensorflow_image_classifier/tree/master/Trained-Models).
+
 
 #1. Model 1 has an accuracy of between 70-80%. 
 
