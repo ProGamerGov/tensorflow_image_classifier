@@ -86,7 +86,7 @@ Models 1-4 were trained to guess which neural network art service an image was c
  
 - Model Download: https://drive.google.com/open?id=0B--sVcawvPKfN2QtUkRQd1JpVGc
 
-#5. Model 5 has a . 
+#5. Model 5 has a Final test accuracy = 88.8%. 
 
 - Categories: Deepart, Ostagram, Simon_Stalenhag 
 
