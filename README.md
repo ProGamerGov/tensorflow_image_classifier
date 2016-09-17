@@ -93,7 +93,7 @@ Models 1-4 were trained to guess which neural network art service an image was c
 - Model Download:
 
 
-
+#Datasets:
 
 - The Deepart category had 432 images for training.
 - The Pikazo category had 144 images for training.
