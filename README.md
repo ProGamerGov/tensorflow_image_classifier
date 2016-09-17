@@ -88,7 +88,7 @@ Models 1-4 were trained to guess which neural network art service an image was c
 
 #5. Model 5 has a . 
 
-- Categories: 
+- Categories: Deepart, Ostagram, Simon_Stalenhag 
 
 - Model Download:
 
