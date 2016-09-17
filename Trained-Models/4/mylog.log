@@ -1,0 +1,2323 @@
+W tensorflow/core/framework/op_def_util.cc:332] Op BatchNormWithGlobalNormalization is deprecated. It will cease to work in GraphDef version 9. Use tf.nn.batch_normalization().
+Looking for images in 'Ostagram'
+Looking for images in 'Prisma'
+Looking for images in 'Pikazo'
+Looking for images in 'Deepart'
+Creating bottleneck at /tf_files/bottlenecks/Deepart/bab4d5593b5aa295bfc25541815caf9a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a715e8663a5e90aad6593784ef0d60cb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/fe890401a6b127198ed39e85482279e8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8ba3130607503bac82810f77fb899c88.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/14f6a709c093b3da7cf52ab3ea697b37.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7a7cb1c2e335798d573b3067bb6212b7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/cd281bf995daaa6f925d8206fcd9c447.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b089e35ec113d58c4021b11afe0a49ff.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b9706f73c06316d617c5c13693ea7bc7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/deaa3688c1b3b9c372dab4d9da40f718.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a103169db05225cbd0d03415d68e289b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/237ef463e56001b4489e2b5510f08531.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c08ebd512fde9bfb80749c6f674b8952.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/89c955343975796bf80f6dcd66c465d2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/74a587c9050fe347e1b3eff7ff94eccc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/28d430de9e797e66751b41591de7382a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/829a59538ab9a81e84ae543b9da72a07.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5256ec455491c6680367e2dcf1bf47b1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/ea7a1cd261c0305743f5e7b015fad915.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/656c44894ebc44511c6efbc14195af4b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2e2944913320bf8fbf315d3e215b4322.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/ca4dbf70db519ceadaccabbae3496ca8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/ec21dc704109d74bcdf6f143f3555341.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/1e52233623a486e65f30e4d41463d6d7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d81326ccdcbda359db56641245e46c01.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/323f71d8658810111498354d60f15515.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d6c574fdc5310ac082535a9976f1965e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d41a8d9578f9466329b56c7f4f060238.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/78ff68b07b4d663f5f036d3285ec7d0c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f502323efa2b28c9e57e2d875c17613d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/477473241e876abd9f1c04481da965ef.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/404d89120b59f6595d14809d5f2b1b2d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c2e2566a9917f17e0450c4bc195b1d4c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7a19d7f65379024cfa811fe636c5d258.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5b1628b3697a7979f36b5dcc6151961c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e03db60b8988c03f59c74c489414b94c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/87632443c42e486da8ccaa3df7cc64a4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d8a14ab4130da887921076741713d7c1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/19b60c11c030d2ba3898c0a0f1d6860b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/bf710424aedc001d8ae3dd62944c69e0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7e8c5f30988c5c7114371838430c6f9c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/34293f011b6d19ce3bfcecdfa058446a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e408b7aedc312937befc9f7959f535ce.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a9c45a6badd287df606d4cff53b2db96.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/eea944d901bf8666f495733a5f4ea910.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d04e7ba9498aceac1bfdec7655d033c6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/71c1f5fac285faffd5d5bcbfccd54d8f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e4f5c46cead13bfeca2466849ac62393.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/565f96fd6d4fdf6040baa0842ab03665.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e3cb605816827a49d179d60945c7218a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c40687191a4fece2c75e54dea0aedde8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/941ee8ca6c5bece42ff732f183e2ac0a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/6ee15478adc52aa096912e7b3b2435a2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/598aff94483b83a8cc1fed29e65082fe.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7f820b60592e550ba669971e796fcc5d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2088439d7acd6133eca7b678e51964cb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f1461c7b876d973f2e5498230550f2db.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/41ec3878bb844517a0c0bc8ba461e1c6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/489d2fffedf594f9bc0a01077895ae15.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8ced6ecefd9bac96cc849e5ebc1fac2c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/97505981776535f595c574bce129d0c2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8c903e09cdb2b311f7a12418e6af2ffe.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/35c1e49a3044ea5627a592a98fe4a4e1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b93a2a208ab31bb7991bbbb24d72c921.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5b1ae6140d11d6a3f2725d93000cba8d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2f66a5404ff7cad056d4b4014e49d26e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/257b2d3834ec455296371f640619beb1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/403fa4e442c344165940c69b571660cf.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b043d8ea4881e3b189af57b65f761049.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8c3e1428cffef80e0a3d3c6b44984e27.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d40be7c7fd7af042477aecd56d789ec4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5f16849d0e0541b633bf70c93450040f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8e9aad960bea330701df6f0e39a0a499.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/473b101f978dd3724fd2a3d8f9c7deb5.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/185f3a53a0a943e23f89afca7b486ef2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7c803752beb4bd6e56bae8e2d18e1bb4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3b20dd7c535eb20bc198766c21bdd6bf.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e81f86610f4a527a61ff1fd8e21f3538.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/87cf2a9899cf2db9d1df59f7036462fd.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d08ce691192bc10985e59ea58acab027.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a1723c404600352182295174f21542be.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/42f016cccb3d733fe653948e4f784d90.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f8f3889ad84d683c1f4e5691585daee4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/0ca23f89e629895d41073819ab3097d4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/95e7a1d910d6af3f49de6f043e0bf44e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/1acd219783e6bf9719054427014d6b93.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/00fca47f8ce077091471b236d061a1b8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a380f05d90057e3eb3e214e2e1601543.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/205e6f5e4c4a2199a44910464f12592b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/49a3bdb8dcece054cce68a873f840d89.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d4f996518817aa0bf1633ce05d632e7e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/566f8eb676cb484000ab6a25146fc77c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/810387a45221c1aa5cb047800230dc71.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/4f19141f515e0987d8fc756f3edc8a50.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a1b24923945dd7d502f3b31794861333.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/77531e60a0a8de61f0a48aedfeea8d52.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5c06f60b137337b8e099f7222c8388d3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f14a73d9080954cdca16707fb0887497.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/6c8934aec6be3f1d6b6f6a52a7f458bb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/37a28eb8ec11809e7bf7ec6db2513ee6.jpg.txt
+100 bottleneck files created.
+Creating bottleneck at /tf_files/bottlenecks/Deepart/bbd6a0b2038e99fa42fa6a51191ac0d2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3e12408f0e9c9eed00abedc47f6d6160.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/ed61d7a52f083e123a01bbd3e2dd708c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/dc6c1a5d76c71e6ede23d0953b7b3db7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a4d80bcf9cf831bb0a96643863be2c93.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/ce2a9f20849263050f9ae5a2e257c605.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/314cab94d0a3b5905742b82ac9f9717a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8725f7cecb3fbe93e072e72939f5ef3b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2bdfa64ad693d3d7cbaf2c9be911eab1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2aac71742cfa92386a7df974abcccdae.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a094aa28de0d1cb09c4e95389e0f08e4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3cf62230fea263e78366981dea629442.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/749e6fd83c859e7ae73e3451a5409f08.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/1112404455ee91e6242b245d604d1858.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/9f6a09d1e8e9b229519ad69a04869d22.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/bd1b12446efcfa31d316db85fdc7c96f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/efa8df6cf6ca28de940b15b2e2c9ffc5.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3b5d999967d69986fb8fb3faa72b14e1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3f11077c24138bbdde773fc10015c785.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b407f66657385d6e232bfc49d9d51e33.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/33b04a3ce340007688681e2db7a46b55.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/77a348fbc7bca4e9c52650f396a1f155.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/4bcd34959346225219d8753e38e73e75.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d572b7cc53e107d6ae5992b0f90e15e4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/ab0638d6df1e4d3494275ab7721d3dad.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/54845a71c891af26c58e538914a8f5ee.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/6f8b6fab9caf466d1a117b3051f70cef.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/507d3f75ea21473b451620b2a5b03e29.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/0cdf87b7d7c24fd46439c7ae6d9cc4ca.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d5ea0d70ff908cfc6a51ea91bdf70fa3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/fafe6789515da6a34af080c4b690b3d3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/1e337b9bbd959a16078017099e4acb0e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/1d3644c68d729df6fce131ccf7cf9e71.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b664159ef5d99c2eb11492919ff695a4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/13d9ac7d26c4e4e7af0435e12c63669f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/763482266263a0534a2a80d274b80d15.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/66c722508de2366ddc22abf7885e8577.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/efa4cd9796b2a7e0dd7273c1b7238cb2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d4e6282f8c7e8d439bd318a9a4c4f159.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/35f7688c33ae2fc5e6054545c6624bb4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7c6dfccece9ad63f40e598199fd3f4d3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/0a21b5bc5c7844adcc4683e0b13302bc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f8185d3b56f0f5421b3e051122d375fd.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/73fb2c0e3860522632e8f52be821253c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/07c9cb4eec1b8e21b32fa4253f144892.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7b97f413ddbf6497e1a45bef4fd43829.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7ef02b86748c50db48412f5c7744ebc2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2cbe9c3ca5a6cec13b3cacea7c88dec2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5134dcb8f60a21075fd2baba80a34d47.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/41d872bbaf6f66aa1b0b4a5353156d30.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/df14756aa6aa1ed5a16478ab1da329c9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/019785a72aa0d66498a771dc2913bffc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/0c93f096bef59e2b75b9ddeb5bef4feb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e064528e6509fcd903b1c77cd4a1a693.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/709b1191ae7d1cb13209fbcb9fbd22d8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8072e9eb99f5f7deb03ce03ae52823b2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/59b037e4489dbc1c37b357d8a92cbbb0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/62993ce932291e34581509bf6aa3544b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a7e81fe7034fa0b93208a823c41d3df3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7c2b05aee59f173b3f1e1db1f3e11c31.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3f0702509abb10067f6897567e060d01.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/84e0019cda6fcca5a11aad4c394eec7a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3ea31e70d119739c938d4bdfcc40570f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/44c6f2da83e34f9c81866c55e0f422cd.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e49390cd95a2b180de1a31a36529ecb3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/ed419903f818a1b580af20e7c9c54a35.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c16d1efa3c099a73671a6f4c8361f699.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/405bd5ae30eb9967cacf2448b4607202.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/84f1de62b5af74dc75e57efd147b1b5d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f4b32bac443b79043ef6829fdade65d8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/eb8cdb2721c76e4eaaa3c960ff0bb99c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/6c578bcd66420811e3707fd6fc8af543.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c4e797c42c5f489965466271f6a4da1a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b56e5a6bdbfaaa500528f2830f3348ca.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/17b79fb3fc2140e8dd244db47ae183f9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f7dc4a5961035771f232644a2c38bd3c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/ddcf4b5297b8cd28bdbb77565c763311.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c484e88025d601cf3fd25096146c3198.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a52f9a6748caa6cdda60e3c7df329482.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/98b3ad6b1819035778f0bf0e47aad4a8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8691e9f9ba877485d325164fe52abc06.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/027eea1af00994e2b1812ac3213f0efd.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/ceeb6d116fb257270fb185643059c901.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/9facd3e29b020dea8d94757600821d47.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/24219bb28ca29e51be2c2627eb004367.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f1965aa16347118e5fb164168c04d10e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/67d535b650378d236917674db9765c5b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/af54cca5bdfe4c50a4a1f5d3ece430b1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/cda73d578d80e2795ab01d7a3b71f44a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2fddab568bbf426b073d6c8061adffd0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/bde90ba9c734a592e6ebbc8afc5635cc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/bfafeb4cad9bb8b8be57e78e0e3f1a39.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2c1bb7743a9a69fdf24a1296c30dbe01.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b6b0d994405799f62430fce2936617f3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/6423231708822e24a7de050b4df1fd2a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c58d96bbf09d58e53c67b5288b7ef0e7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f9b1ef4137caac286d9ddd48c5cb2951.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c21fb9920dbef1a13d646d9e28af897d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3b44c28cd37e053bcd441450e549786b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/080f2d12790e82ccb296a978da837dab.jpg.txt
+200 bottleneck files created.
+Creating bottleneck at /tf_files/bottlenecks/Deepart/0797ea7140e1900ed9301264245c7366.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5be44eb92dad46ae6624f57bfc584def.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8f8795b351c85a768477f9faaf9fa71d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c9c7f01d212f12553742992735e57522.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c933d3137e7e3d95c32a153f877e1569.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/49215c309cbf9e3e7d9b46b34e452967.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/67c7fcc5f3b58a1b4776243ea330d94f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/152189331dcf0617dd581cacf2fa15b7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/541208d74c3d30ccbf339cc5fa998380.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a0a6b507190570ef482d635861c17f7f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/576ca23bf27a2f436853de85348dce4f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/96d078841cba9821ce22413b568e67ba.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/132c2cc503a9748451620b349013e424.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/cde5a417b1b4c1641c9a2b37a7caca6c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/121b177f16af2a51fbc3fa23ecd67f3c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/33e634e222b63c9f238c27408df35c9d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/fa22099ef87660adc8fb53be9a0953b2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7302701469866e0022f1a1d4e86a5254.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2d0da349369e4d109771413b002ee135.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c3411af5076c914c8041977d6acd52bc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/016ad3e7882096ea892742e3e7451a92.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/92d49175450d60ddb04c3289cc57625c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/4f397ca04b2c61a89777174607d4f710.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b3ce1abb105f61a6672e13e9acf81738.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/67bc60f191f49c258e7a28c880689422.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5d9ab41f2682c7f6379c5765433d7dc2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/97d3fb69187a2491d4cdd39185104028.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8dfc1bf6d2eeb050bb1d0214db0fef06.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/24e2e29c96fe47c34b29ba3e0810ba58.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f839360560f25fe96fa2fbd3c8b7c6ff.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/6069b6e9791aa174efafd6708b34261c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/15780c2fab1b496816cfb3a428afcf1f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d089f7583d86cddc32aba5b6796aae3d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e8ba569149f4ce6b6050daae7bab2665.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/da198f2a6a65c17d2a3d321f022579f8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f3134de7beea2ca2721d140986c6ec71.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c26ce761c545c9248e9fe896eaa9ed94.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e49ce23e85346dc9a335337939ee988c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7d58ebbfadd0c58e0726ad040a9b4c43.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/9af4792b56c068a377ed12ca0a055251.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/75ee4613c1b1705141cacc1b4fe448d4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8134f05b53ca7b9a2040376d328e3b81.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/66b09b157303d3859ed179bfb7595197.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/9dc3e24c148a00830dc8594d7f9f1e9e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c175b30327c84e5dc35c0ca89244f364.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/405cddaf516e85a4fe73e9590d51c444.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5281611f3cc75d390c3d98488c460744.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/9d0c9c18f0c6fb30874b844edec1956b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2617f7fb1b5440c6b2aabb6ab07d9082.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/9fc1bb34095c22a672895c323586fe33.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a251416ddae043078fc01cb4bb79b4b5.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/461360dac87d44277b695a47f659d362.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/047a1c9206d0be1c662b46128e724288.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f19d3432b0301eb18ff45fd9d7446ee9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2649ef9902868a392e5a4ebf56a71c67.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/45a7c8d99237b689c93f5387421400a4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5926378ea15c2ca109c7dbec467d5bf1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c26704ba3f5ad58b04003e8adf341bdd.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8f5e26f628e6897d38b618471599ea76.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/737bda6b415c8c693e66d4e39271a9fd.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2673a43b9d00d49f46be60d991a6b211.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2265daadacf8227c6e327f80c44e0bff.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5d41ec76fe6ba1c010262cef0e26df8b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b85acd26d326e4231945215e5ed93825.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b3b03b539eadbfb0c5219dce14c35c39.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3370f3a99b71b744312efe086dec471e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8599bc6ae118f2adca524c94c5162e29.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/4fb733708b560ca4d31141789c594c51.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/90dd63fd3ba75593a5a6513925383924.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/cdbf7fb73daf804f33d91afa3201a766.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f5f58a78400b4c680ed04d97e25bfcbf.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/08d530a2198477ccf449507dda78501e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/73b77d00338bb7627580dd78d216f703.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2f9c1a7b2ad579bb1490dcf4151cca68.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/9683a451cae903e62f4069dd64a0f84d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c869568f08c9d8ae9009f70bdee8e860.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3a76711d9604758d5e8e306958de4c8d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/1a37bcfe3ac6d921c0fc132dd4f9eb4a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/72e125092bb5403599a5460de07b1b1b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/085891e2d0f7f81583fea4ee2c4d702f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/14718264905bb1f9aed968945a8528d5.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f5897702593f93a615c8f461e449fc91.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/00429e5df46af3fe537e72d7b00ac483.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/17b58116cc0fe2f6d226f497902d0afa.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e0dfb413cd5dea231ef781551f9d9d64.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/9a19f92bae488c986d1b4f5c17b558ad.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/097ba5d45d6d41bae5aa2d4653472754.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d0865c6b03da96f4af7df59caa0be667.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/4fdc702778b862f922c9340540502034.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/9618280f223595c121add1ebf78fc4db.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f1754c1cb1f1f033d11f1a294cfbf389.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/fea4a251b9c5fe50058e5a08b8d381ff.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8f781e5902fd6926d85d34ef9c54d316.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/907e2920dc14c43f2d8910bdb34b6b93.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/6176a98f62baa96966ab29684e1ce358.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/1a55e38945f9eeb345eb7cf9209ad69f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/399412e0a20a98e28f029455d73c3cff.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/4f7603fd5fc3d1997a451cc8049f4b9c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2133490499460f600bc0ac1f0ead6b19.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a875a2c7247b75250650178c62eaf3bf.jpg.txt
+300 bottleneck files created.
+Creating bottleneck at /tf_files/bottlenecks/Deepart/0ec01155f7f3316f090313a3f7b58471.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/1eb0c49d44f04c4ff8a7298c457bebe3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5304c39364b9e503a211e990e19e02c3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f2ca2b91feb77659656f7c8cd6b10fc5.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/43ca4657d4668873f4e021b8a2b1a3cc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a3638bb3f5efcdac3c8f9180935cb93a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/ce1a028b943e52c14d21a16cf9425be2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2ad7c1b67b37fedfa737d28638b4a0e3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/6744fbd901997bed85d27e3c3742c46b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a719f4d7908e21326a92c3e2a0bb699f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/81c286847d99cb3cbbd16a1440192b65.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3ee1d46af643135a839cc7812ece74f3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/15c2e74698dbc7a37aa91d017d4cae52.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3a3d9009cfb689b6e4830fad629f6dd3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d6c81d5ab2365b68bcf22368c9f08201.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a98e01540a14cd25a67b568f7585277e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/21a05e114c74055f2a959fe975f0b88d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/bb01cdd9c8b9b70762bca3d7b0541fa4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a3930fd359777028f93335a524143a36.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/177d869e96eaadd5e8b2aff5fbc8f711.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/3dc5308208ccdd485f241595086d3db3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/905c7a1e85d7bd9cd6f85a9aa5b126f9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a5f0e3b5831c57ac4276483460bd5c2f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8c35c53bd96e204879c6e5a21b421481.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/290fafc8bfdbecd3c7f14ea4951678d7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c60c5b204e538c88ee1c3f87f4d15d8d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/6d5b1aafaf6930768c2ec1c5eed5c678.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a6e8916051ffc8153202ed11aad84a7a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/ccd90a9295b213ffefa0f283fba2e79f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/20cf458093d12c4327bae5c6ff56df1e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/48ad6a34adb4a6e16692b3c885b4485f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/aa8259fe98dbcf47ffa705c0e22fb97a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/fb7ddd1668a740642eb6273fc7ff0674.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/9a1975ef93a2e2725a5b3b9a4fdeecd4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7f2947424e43ceee96a6700b504a1825.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/da29858c2c47d06580ae7f0662fc6732.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8cc670671e35fbdf9322b00274c1a345.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/33e12e3b98c1de24ec027a3b217c0a60.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/4f7834ed2fd41778624d7979837e63ef.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f5f8af20fee2f89c1e7cf018d431aac3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/1b2782a3290e93bccf7638d5f04ea141.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d93065774134f0daa22b01933219509e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/40e418b70e95f4511b54cc01e1a93a8d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/7e08922cec421d1245718d5f20351674.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/035a722ad5fc519ef29fa23c1924b0f3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/9ee0be93dbfbb79edee607dfee863e4d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b6aaa947a3c4c30d609f32e75a951a34.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/1d5f6b01a93308b813d6d3742e98796f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/25aae59cc4e68fd44b551d4290ca5834.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/026dabd72625cc9cba1cafce5703ac06.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/250dd62342b5507783e99143048a9e76.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/fc11b182a8f5c9fa3ae0633bf62e603e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c639b6eb3ad6335f4f35a31cb2382566.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c9bb134244862d7d55609265bf348f9c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/222c6363d3758305b830eeac25127f17.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/61a8a8a0ee661bc366db4f6eae15f00a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d74df2486a6ae37baa0413327d49b9b1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/9662f6dc6b32122cfe1840213f139967.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/923169acc7bd3e9ff5caf322e531a2bc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/314e352e877b6eba1ce5d46a8afeb6d1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a8e5ea6caba1cfb8f511ecdd7f6eca7e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/6d61e985ab0dec02119b587f7ff6d6ae.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/1d73ddaa769ef871c5709966d2efa19d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/aae03cf13c3b1507769cb4dc58984f6f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d32ec7d99efd15c289b721b547aee102.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/70c9098217784fe1d7857db6fa00bb68.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/bda59384979a5fe4b67bb436321e8225.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/241fa2a05274892950d84e897397c46a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/88cb70a1ad32afd4f06b01418d906d73.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/75e30f51badc9361714eba50109ddc5f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/51b9283059d30394684590d678c6014f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/aaeeeef5daa083e8eed76401ee36b73d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2fb01ac240b0314247b3eaf0e64fe6f7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/aaee0407fbcebb52df8473767005aaa6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/481536a4e24da3dd918e04b3bcb8d64a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/81a9d54b07f37763ab8f6f8bdf8cc1e7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/34a29f62de71962230de02c07960de7c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b1010a26c73f3cc046836e45ce4ecce0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/dc1e600ef2707ab7d8c38344a10993c2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/37668e9844cbafb90fca540fbe2575e6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/fe790b59d02ff5e79cfab7b876675bd3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2317e21d08ff3861aad510ee59ab5004.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d4bedf635d74317d5013b1f2c3347f0c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b87917f1cf856994203755c76844b925.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/24d6f247f0cb54f450df7773cbfa2fe2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e5e8e478128cfccb0986cecd291dd379.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/00c88f97afe9aa80055c0b599ac12737.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8a84294ea1210b745151751939e14668.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f7c405c2e394d6ff27a6dd4d1c311621.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/0c87f06e5b7c19cb7fadaa778d5aa977.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b2d8e72e6da53d55cab820794ec14043.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/177f3752ba45e03590343a3c73a9bbb3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/4fe1e345866dbfa119d861c2b4855ae2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/2d01f468cd7970f49649042893aff5c2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/4774bfa06b2aa413fe7bb2f1e9201aa8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8424068fdbb16a4f2a5864fb7830ce28.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e2bcc8512cb39640584666487c17dfe0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/16a9c0e9627d4f3742b04f21219bb25a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/d3f03ae0398910bb037734c8680c70dd.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/489d069493856e30bd86ba6904b23162.jpg.txt
+400 bottleneck files created.
+Creating bottleneck at /tf_files/bottlenecks/Deepart/53d120d5a1fea832b33a62baceb7c89c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/1aa56c391aa26dc46794f7073908b3ae.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/fb08626e557cc23892b715e7f35fc660.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c668566354e90a606e898f7bef13e219.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c86bf1f8ed4a5a480560672692c3e3ec.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/230677c5fed54d1369219d563a894aa8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c00a1b7a3434962696b724c6e7243442.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/624ed18bdcaa2e32fffff1cf56d8dc7d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/0460d16ceb5c51c0ab2cd7e5cca5c750.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/0fd86adbe93a1948317fd9c04fd0b189.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/56aaa2ca1a5f19bde38c90237561268e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/b182d9d83a197bc3769a5ec158d51a1c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/ed607fb89bc78fb1c839ad60d21bdf8e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e8b2658cb69dc1b962de75b2d88089a0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c8d579b1a057ab7fda4ffde8d0fa8eeb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/bb822f172c21b3a9f8586c4632cece8b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/4f28dd9712030031b1a2d02e84de5c2f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/38dab13bcfaa55eea32acfd9df3dd85a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/033e8dfa78c78c9a9afe9b0184f4931d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/c9313b2b53505c0e1a112f1173edc72e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/26974f1923f4d930bcc69ca5b39c0c72.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/fde65881fbae4e8097d304f80064e3d1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a7088a3932a822f0a4f6f33642787345.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/8b5f19edb4fbd8e261513ecec5a91082.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/e53d99bbce3fe0fdbc2ffb56d065137a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5b98200a0f89f8dd4e32dd78c8bd16db.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/5286480b1e95d6023fc437267aec099e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/41b7a1bc48525b0173b0ba681b226e71.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/f003c73b0cbf6fad56369f7bddd88016.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/6afb10518425ce99ede422937d1897f6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/a33f8c47c75334ee8915a558fffbe37c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Deepart/78cd3e6a8ad4cd02d862d06cd7f5572c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13423482_573858772795644_25917818_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13422843_237085683342453_1520270904_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13724653_893569864087082_651421646_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13706803_1746003589009263_1332378149_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13392838_838769556258282_594858927_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13725505_272126206495021_260803652_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14134657_293492657690440_333664835_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13402519_1744921219082824_95908539_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13652055_1285220918162495_1007875312_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13739456_705001246304533_1607019862_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13473285_157063761378005_190597012_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14262848_304387569920472_1664160529_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13413433_1034944883259932_1961197657_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13551667_267957656901935_1417315217_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13556728_1058047537594280_18032628_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13408811_1141436942573031_1047563015_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13385854_1698016053806280_1492167614_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13636131_1786520088227300_1010853310_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13597581_1655178694807688_914138953_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14240551_1172378056165483_1013690786_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14272082_181693498907636_400442470_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13398371_1235187426501119_488805172_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13414253_1051210088288430_623767602_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13694565_1740102366237537_1878346432_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13741103_831455886954921_1244901106_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14294868_1250284451669298_1298154482_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13531876_1735054486737899_839206175_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13722050_1576723412624516_1210528765_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13556743_1017455111623542_778742060_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13392658_1796387680590945_1745482358_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13561660_1055845804504158_312966800_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13423455_492916867585150_119890809_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13712192_271764383195093_1502287941_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13573419_260156904361794_1702013701_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13745180_1045464508865815_1783044060_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13774806_930550027070729_1579582540_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13827184_1766582486887301_1782011332_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14272023_1681603235489845_1322647532_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13658299_1554957448146570_394539361_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13628419_1782769825286073_679039450_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13402213_284482238567661_733596859_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13651775_273247693066842_1432379694_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13643695_137964483297277_43197572_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13561647_1707176579535604_1376337027_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13423531_1051950318203001_2135741252_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14156583_283157185401082_1111731141_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13408991_1563632320604726_2069449526_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13735997_633721280117987_1489820392_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13422964_982266375176279_631743540_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13397672_1625034131141041_1605867442_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14026583_313066069041147_1946819491_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13651873_1041864825932843_838863142_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13636223_272929646400595_1997562990_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13534377_144872482585532_245318165_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13423084_884689664974138_1581401167_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13636167_993634357416394_105247000_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13636208_1764923080417945_574028387_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13413202_834163186727746_2046153893_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13402164_623116121191245_2092472140_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13707008_127821500997271_1091324114_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13658537_314018738941495_482609720_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13597674_639699906194311_242020626_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13402560_538650186319681_1075162026_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13722005_1816808281874457_1783330378_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13734335_106171179825022_254327675_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13561830_647434962079570_30455985_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13422804_1548155705492124_111011131_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13380905_509000985957903_1498870444_n.jpg.txt
+500 bottleneck files created.
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13628475_162938007457327_451385460_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13561960_305737823093135_848970822_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13774772_828151010618084_143914199_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13355410_910981809047979_619630810_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13402208_962169863896842_1376865920_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13696441_1002446223209315_1300351275_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13743541_124198304691214_1045678817_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14052426_1136273626416136_1459080192_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13398499_657365224412930_955187565_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13556892_1729897503941182_613701785_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14280436_1618486881778141_186561033_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13391291_1065472053498458_2131899392_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13573625_1068744283162639_1727938481_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13732077_1780385248915031_1504262007_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14334489_340797372930865_382472346_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14072822_273416276375422_695725361_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14027266_514862612049274_1824042289_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13584261_1429937983698827_2126196902_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13414184_1720573141516161_1923333999_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14128876_1759647347624599_1603254522_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14032752_561040140747474_792014521_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13687219_557041961149042_1001711417_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14134961_1672967756356770_2027687479_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13745206_1573488662946860_1049917057_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13735903_1672355429751409_908475760_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13743101_642981982537486_1336865640_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13706879_297521903935480_1889186965_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13561649_135645446861314_1845019928_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13473119_1020802504669954_1020063202_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13423049_1288804167804270_1475056592_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13743648_1228779337173163_175747189_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13414201_1239888276051808_1601386011_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14350360_330180750669461_184457689_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13423645_198023300595429_885718601_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13735885_1123313391040646_401394943_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13423585_293773980958405_1951305020_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13712298_1054777661279963_1718963643_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13437358_1552740268365012_1544633094_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13385595_1631708207149241_1997201213_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13557168_1331265680221443_1748470284_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13392631_1043317865763073_1880386780_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13549418_288918891459131_609561620_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13385858_114530848973983_1962108329_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13704204_1144932645571586_1748423617_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13437222_150137548729606_38821783_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13628092_476442082564931_1525958838_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13671744_310312515984842_1806328906_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13398396_1087324511354143_1496565675_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14240509_1035822396537734_2024511388_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14156561_1278948045450340_473411009_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13725557_318607658476206_1747009355_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14135036_879787015487924_1426856148_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13422882_1636022969972876_853358217_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/14027160_314582735557873_2028251855_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13736938_1720078168214514_2124019233_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13402668_875353622571303_172884340_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13704236_1779741852244905_117213935_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13556920_551877491686336_729150762_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Prisma/13402155_211588859239571_1932701302_n.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_013.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_070.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_113.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_106.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_131.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_136.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_133.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_130.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_103.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_096.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_121.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_063.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_085.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_127.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_030.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_014.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_087.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_002.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_051.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_068.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_075.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_134.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_117.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_006.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_111.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_012.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_047.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_003.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_090.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_060.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_058.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_076.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_023.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_008.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_021.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_126.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_009.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_089.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_083.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_084.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_0070.jpg.txt
+600 bottleneck files created.
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_035.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_004.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_114.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_019.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_007.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_020.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_125.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_016.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_054.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_097.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_044.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_073.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_028.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_0040.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_031.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_0060.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_108.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_124.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_017.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_005.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_001.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_105.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_112.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_074.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_092.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_040.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_024.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_061.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_053.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_041.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_039.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_049.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_128.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_062.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_079.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_015.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_025.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_101.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_119.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_046.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_0010.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_033.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_100.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_081.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_055.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_104.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_042.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_026.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_082.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_107.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_065.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_093.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_109.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_064.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_018.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_110.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_057.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_022.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_045.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_077.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_066.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_102.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_078.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_080.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_048.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_132.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_067.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_071.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_099.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_123.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_056.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_036.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_0030.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_069.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_094.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_032.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_122.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_027.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_120.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_037.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_052.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_0050.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_091.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_129.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_118.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_116.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_115.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_029.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_010.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_059.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_098.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_043.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_011.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_086.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_088.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_038.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_095.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_072.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_135.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_034.jpg.txt
+700 bottleneck files created.
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_050.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Pikazo/pic_0020.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img213982_a09b1e070281cd4f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img56266_4d8f985adb07d9d1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img27789_07b5f6190424ed4b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img27264_b3eb7a2074760fb2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img296778_4d1806a1b2573fc2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img121766_dbedea4bb8ffa49e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img169521_affaff1cde575343.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img608029_9b0074af3a54bee8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img29167_04f2c5ce590aa488.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img334848_070deb3bfc9f9abb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img629243_d62d678341ef01c6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img612325_9efaa948af643904.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img692476_18ddb9121927adaf.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img690618_b9f37bfff06ef4f7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img294497_9ba2916ae1a90568.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img279134_99fc01b3be37e0d9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img477535_1f697e13826385af.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img631124_3a6162fdf0a370de.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img154367_5dd642f9af1ce3e7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img281323_6fb3535c713ca901.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img63640_1a50bd22ffa35535.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img285033_ca21ba58bdeab5ad.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img345922_ba8ed28ab2288f61.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img587375_49e6719b5788b97b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img530104_34e3a0fde16cad1a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img382874_56fd54e5a1055ff4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img25643_bdbb22563d252af1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img520912_67f1c9e234636303.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img150387_b7299dfde5b82454.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img37962_72927840960c0c0c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img655223_b0836a93f1ec2ed8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img108934_8508df4235389787.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img57393_c2c348bcf653f99e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img681557_89ccae219ee86f7e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img326168_c398d19b9c3b6abd.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img630235_f20cf7224ff9747c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img252700_a36b5781bc57c65e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img267867_cc38591559576f07.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img293882_b05c94a863031e3b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img18370_e24964032d701cfd.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img18373_30f1a9e18ed0bcac.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img220653_820fd88916e1cc30.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img454102_58ec65fb05b68981.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img566378_e9875ce30c47d153.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img429558_413004838d09c020.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img9149_f84a832c889cfd6c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img159506_5a3761a60cf2282e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img18694_9d7b315e11ee8416.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img261924_0f09e2ea5d1d008f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img695905_cd766a4928f59613.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img60702_5a92cc4e7728d724.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img626084_6f56680d35932580.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img692813_b81affe50844f5ef.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img496257_6c5e11f40cb89e04.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img472529_358b2c866c45a434.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img593550_bb1ea93126464a6b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img543911_4be33997663a09f0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img267642_32316a3872755831.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img211641_bf20991bca10f997.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img168885_a65c3a7226f6f0bc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img117547_5cd12643418d7e03.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img238559_cf2cf351d8b5e3c9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img63385_d0a2ea9cc791e872.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img501590_7ea1eee799b50d8c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img78125_1539f9d0faea5c13.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img588261_0fca8b9026924215.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img572159_7ea6c94f95556bbe.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img84162_ffdf530bc075ed51.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img270851_26c3cd30828e7d84.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img10363_cae3a838bdeb62d9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img24108_dba28f6c98148b34.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img297453_38bfe3a6049cbcc5.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img552374_d295e10c6f7599e6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img602708_c3bc13b2a15c1b0d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img48515_d600d726c3626e82.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img502383_ccce46b8c0d23bef.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img38935_d884ac5c59b6b8af.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img222711_cf04e2848b544301.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img584152_f41bc505129352de.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img691794_439eb9b7e3ad8f25.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img290918_ad0156be461ca78b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img256074_ac355138fa75d08f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img480944_52bb8e1d073c3a0e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img129245_2935301f8eb9ed52.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img602537_c78335a189541055.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img355047_11aa1738d1b59fc6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img146107_3dc0b7359d866e34.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img426553_5f2ee6b2be3982c0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img413613_ec3054f2eee586a3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img426262_adcc4c31fa2a22ba.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img478976_9f9f8dd2ca644967.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img231479_a9c98ab75d975738.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img178141_d83089bf1b840642.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img86798_ac828794883f3bb9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img73973_0b52b54347f51725.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img133560_67b7ca2183c4553f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img6349_0a167e0f83b0b68f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img117525_a67018f9bab7b5a0.jpg.txt
+800 bottleneck files created.
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img447914_25ec0a3089befd5c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img319564_cb79ec8d1976f8ca.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img117646_83483f8e37ddd52b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img27659_4f1d849c4dd29ffa.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img240252_8f6c6918b55b318b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img273748_09bc99704af5d77b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img272751_b1010333e95bd1c7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img567569_a54b65f4245cfe56.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img617006_dc511f31f6fc92a5.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img130250_b7cf13beef8a8c87.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img382872_9efd97aeb715fce8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img648497_9b9b91639cb27fc0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img13537_36da81e8daab7393.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img562412_1d7577e20a9b1fe0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img49189_f39f202bca32096f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img151366_3f77a84e8bd9d8a6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img65895_4bf950949ff0dd56.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img197804_1762b0cd187d28d1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img293863_9b48d3865403a49a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img604337_ecc9997e5e1ed566.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img108871_fba49effbb59ceff.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img27083_a5f9d68aa9eee701.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img19829_50b4be07f446ed36.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img275051_3a58b0b047cd2117.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img23099_c0e6b1a041d57048.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img112095_9839b7dd98d09c1e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img188742_a5673c7d438a03ae.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img704017_0b689ce4bc4d2268.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img211125_f750c506e55f7397.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img109550_cae3d6d3d2caa422.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img544592_f7a97aa7faa89051.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img310991_fdd77a96cfd67de2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img697145_e4c3dc368ad499e5.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img585111_20468cf96f5cd324.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img44335_f7482b76befa58fa.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img624745_0aa31e765cb7bbd1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img525327_156e227b65b8e726.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img677029_21196fcd85c590e3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img353343_8fd8b1c12882ae21.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img452489_ccc67c61ad367924.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img171746_efe55fc82fa515ca.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img54804_3aa7a2cb96f7037b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img166222_31dc867c35c4a4df.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img531950_40d4658ba286138e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img596372_6a6d6e2bfd9ed1e2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img241080_5393ec6ee10bcde1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img593193_f93ef5ff7dcaf7be.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img178642_0971abc1d4764ec2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img170146_957163fbcd951232.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img394240_e181e41c034a8ce7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img206861_38d7e2aa91e83772.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img142443_02f847450ec25e9b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img505630_e00cbeb6b2e48174.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img349908_848570d26e0d4307.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img157656_d9c9c5564dd5ddb1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img297812_ec508c3a9e593abc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img687385_6a62fd2b2f9e32be.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img385844_284fc479f7995b51.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img86350_1ba22fa2da99b2a4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img48940_da3dda9cd6284310.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img81249_2f42460748819e92.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img77965_def09b1bf9b2dfa6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img15686_0bc520640e3adfa2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img301072_7360295b6abc94e6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img690851_ddd07a66b5fc9b6f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img557108_ae75199fbdc58427.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img502884_c92b8323c1682ea8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img608031_8a8023d6dd0d2eea.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img563517_d9fe16ba9327023d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img20204_c641451465ed13d0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img611523_228dd61f31898b04.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img669373_2025f64474ca0229.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img349847_2d2e42fad75a7b39.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img25798_51c66d2e4db556f3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img420631_6cfb1f26c2d31042.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img80677_6c96cfa122d85590.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img593964_b2c9d9a3b551672e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img57334_17fb30f8dc2ecc66.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img93623_df9ffc3b0f72aeb9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img622616_1e9785c11cc04361.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img70275_0f8698e0f8106734.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img262240_20c2870d93f0d7fd.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img661523_38c16d6fca5c0b5f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img722459_477f7293d97838a4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img593196_eb3ff0bbc64e4c84.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img671833_947b1d9a31d6e63b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img239416_46b26b4630dd07cf.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img235081_0544d69b26c49f13.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img239176_1ce54027b544d529.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img301594_1595b0de0b9cc782.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img74990_7f60e98eff56f90e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img9953_3efb61767feba781.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img495152_ad2ffca8d621d734.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img617750_ad99b8e463e26d60.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img458533_b81740b2510eb96a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img230966_565c941519fac1a6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img235494_d6bba5b2f06dff99.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img126799_45543133c87290d5.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img299690_9b98fbe1cf725b34.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img534158_4363da7de0200be9.jpg.txt
+900 bottleneck files created.
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img273966_c00fbc73237917aa.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img136565_0b6780ee5be39316.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img626400_57d83cef5c6fafcb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img109501_7b79c19e4bc241de.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img221292_810c08077affda4b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img55857_95d11786e2c439af.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img253956_d724638acada1896.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img18387_1713ac893352af7c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img262649_7a5fed0871541d5d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img643163_0d420efa2a8bb42d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img600549_7c5bff1e907aa76e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img596190_1dc042f2ca8f6155.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img692507_1cbcf5d0a6c40d62.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img522149_929f7bd33cf5b8f7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img498373_ae4b7f05121662c6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img643099_2f25ea800d52a056.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img349716_d03c25c32f760773.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img381030_47fc8f880ab438c8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img232878_12b918276e20e259.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img124398_8c5fdb5cff79c131.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img18791_77889ac2210b90f1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img254291_658737fc1166575e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img693336_0a9ffc66f2f6293c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img511058_0eb053403c5229ef.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img80282_07ebb7934b3ffa6d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img26626_89e2e5b168d2c40b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img717374_91cde52bff80f357.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img9570_4b16c795a1bde629.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img63499_d0fbbc1eb2a7c6f4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img306328_3631cf4636b14228.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img51285_cac82e699bcfea70.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img622523_5e221cc3b50ef9a8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img245794_10a5eff74f0887f0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img30801_74aed955774f4bb7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img174330_8ac877926c3ee33d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img483373_a72a8b5a89d4d89e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img530748_2368c7b4ba8a1851.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img26325_455cb89547e46835.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img493684_708e8032a255e9b6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img198126_c607e10b23bb3793.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img261795_a4314694259ec2eb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img54764_f017c88761ebb52f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img119224_887443aca20b0d16.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img471770_5c404b1eda839012.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img603939_1c786625309cc91d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img6617_a09f9a5919ead6b9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img251998_32b3e10366db0b8a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img216104_c664db094800baca.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img293596_ca0848579e7387fb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img111351_862217f5abb5389e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img6574_ffec6db48a895244.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img178135_66bf143b5f0b062c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img108986_4b2fb9d4c40d404e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img71852_821d1705bd9d7e15.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img421048_737e9b9d6b837e0e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img457921_42eb3b3be55f83d7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img536147_3bd3df11bfdb274c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img160881_4ff5c697d89b15ae.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img277223_57fb163c5233cb7b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img426513_54e29ee58c8448b2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img332393_f8ecb88c2b1d5144.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img342824_5cee38ac67bc2afb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img173791_b55cd0e42701f741.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img353540_e9e62a1946122739.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img597921_ec35551e4a701cb1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img166322_b4ccbccd8a4d0720.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img27327_56711170ca6da538.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img641019_efbcb455de644bd7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img78287_3b8a940407a8b668.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img404921_ddc46cbaa86ef7ed.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img9415_6b564e424af8e87f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img121903_9f6eade16a4e0510.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img144939_b3d621340dcfb36d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img38477_395957343e4c6ce9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img503546_10ee7eb9c7fff1d6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img585193_42ae99513bc98f36.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img704569_255dd73ba557d8f3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img430096_04d7045079c930e0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img675428_1933b4c9ce245beb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img62614_86122a3ae881b8a3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img590435_6e7108c1226fa76a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img206551_dd51fedb0a49df1b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img75476_41390f417e720d09.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img452749_301d9a5705895365.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img626369_6ce9f7ea2f73b052.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img197640_ed5f1628d604b313.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img555492_7039e0ad49fb18d3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img575152_f66e259c72ce57a8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img568388_4860ea156845412b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img70195_74b791e84dc34232.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img640035_2c0de66ca948229b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img38138_4f51eab9cb6cc341.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img33826_a7b4d5a2cb017324.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img373544_67ecc535933bc9e1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img42242_fb0cc152f9df1be8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img8428_b7b294a9aeae12a7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img532198_9fb054678d254779.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img209108_e6a5d7a24c82189f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img57020_bf2cd0f5875b0502.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img17436_bce9bf7c43c92449.jpg.txt
+1000 bottleneck files created.
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img76462_68750c08c6910cb6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img93002_62f8ede4a94ebb26.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img54098_3b8cd58394417e65.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img282218_76e312030a8682b7.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img113819_91ea56ea9901525e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img645392_f9f034dc3d6fffcb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img654993_a63ac5c65359efa8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img28385_02d429bde80f3302.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img338939_a927e38192df368f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img671346_1764cac59da5dbf5.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img9403_23e2c53d6663adfe.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img334758_6a9128e5b2801c4e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img8478_0256e78b2371dc25.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img32651_480d1c9f43740925.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img458962_5cd0cd112c87ffc8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img542150_649bbb7b5b21045e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img112422_ddd2eb3aa73abac8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img496999_5eb087078f357855.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img117802_389637623f7fdfe6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img593918_31f73bc432e3ea8d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img506844_4147b2a6491b0d6b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img104925_0afb0e5c6444d227.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img89621_a01f265d07bfa5a6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img207060_81336f06a4dacf56.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img111117_eb526feaac5485bc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img232555_7347316f46e6f510.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img13171_ad2bc66af356bd22.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img494628_4b8ef6fab7e3f51a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img626428_9cfd2d4952e89bee.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img44720_f1c2c7625ad7fcbe.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img298143_bf481e35d3d4ba3f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img50970_4f8622221a48f1f5.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img20633_334c62e7f8f323ef.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img19881_c3f0dc2ce1b5f5a4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img196303_35fd112a39b38429.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img616739_cdedeec13373e376.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img506655_cd0158fc3e186c10.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img16825_88e600248134dd31.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img55654_99ee0fbc884a1606.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img382878_214fd7a07f35ac93.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img240914_1e4f1ca65120631d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img62935_218e0586d2bd4099.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img319038_ab327b873f111d34.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img293913_1b1b11515faed595.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img53396_aa01071cfc13abf4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img18277_166a588ce96f96bb.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img209152_09951accc1e948c8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img86773_6e05f67911d9bf98.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img283566_4d98fffee03f8387.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img24765_d75f70266074d88e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img556017_55194c615f46dae8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img57405_05fcca933402d2d8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img382886_4611223849ef8701.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img288680_cde55b2e574ccb3c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img121326_fe21ae3833cb5a55.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img38857_c4b639abda6f68ed.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img188553_fa023c7b26fdb757.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img284981_2db4b4fa9cdef196.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img62852_a349feac720a49d8.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img398400_6278843f58969a47.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img339305_cfa4ea68d6df46f4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img731960_db2da83cc4b5c5cc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img19606_9054dcb9c31fff3e.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img617830_a5b44eab3af8bb1d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img203254_9b83a76ab3f962fc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img619751_a4111995aac41abc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img65612_e2af692065bf820d.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img322050_9a3fd519c13f0f17.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img584644_27fd4a57c88ed2e1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img588095_f5d30b3b99ede267.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img494217_c4dd825c567f7458.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img611120_59e6babbeb633eff.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img582612_3a20273bd6aab8e9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img574702_2f2a5fdf651ec637.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img15803_f9ffb45ba02461fc.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img86346_4b698bd50abb4543.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img632965_c41a794869fa45a9.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img610862_d1049629a1d9b7e2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img27095_09aacfc7ba26ade6.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img133204_c10ea96f6e8820c1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img19019_f0b499d73c015907.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img232358_aa5d96e56a588172.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img75118_748834aa3c7fdf8c.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img74883_e2f1113d107923fd.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img39752_d676b01a10bf24df.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img615846_6d9a7832e8c03239.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img61078_38c80d7a49e05e70.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img122685_e418b1c26507f25a.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img306558_0ac687e8c39d3ac3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img576903_ed11dfae9e03eba2.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img22920_b2134c52ce97242f.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img201391_ce4990d3ef7e1b19.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img112405_a7a8b89da8523a52.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img244954_07267363c8ca676b.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img596620_b60d9e2e2157cca3.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img121740_04107203c20259b4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img245871_6f05b3d8168cace4.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img61964_cd0f6f87ac40a5a0.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img140504_1f17d51a1b36f8a1.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img261420_9df293f704d6d2a3.jpg.txt
+1100 bottleneck files created.
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img31086_da4a5bc239947337.jpg.txt
+Creating bottleneck at /tf_files/bottlenecks/Ostagram/thumb_img419948_cf1d865bfdb383a9.jpg.txt
+2016-09-17 20:43:53.244621: Step 0: Train accuracy = 33.0%
+2016-09-17 20:43:53.245088: Step 0: Cross entropy = 1.343039
+2016-09-17 20:43:53.459329: Step 0: Validation accuracy = 27.0%
+2016-09-17 20:43:55.401813: Step 10: Train accuracy = 61.0%
+2016-09-17 20:43:55.401976: Step 10: Cross entropy = 1.206819
+2016-09-17 20:43:55.581506: Step 10: Validation accuracy = 40.0%
+2016-09-17 20:43:57.431866: Step 20: Train accuracy = 68.0%
+2016-09-17 20:43:57.431991: Step 20: Cross entropy = 1.098084
+2016-09-17 20:43:57.611114: Step 20: Validation accuracy = 40.0%
+2016-09-17 20:43:59.485933: Step 30: Train accuracy = 66.0%
+2016-09-17 20:43:59.486129: Step 30: Cross entropy = 1.129105
+2016-09-17 20:43:59.677913: Step 30: Validation accuracy = 66.0%
+2016-09-17 20:44:01.698006: Step 40: Train accuracy = 74.0%
+2016-09-17 20:44:01.698160: Step 40: Cross entropy = 1.052638
+2016-09-17 20:44:01.872290: Step 40: Validation accuracy = 57.0%
+2016-09-17 20:44:03.788030: Step 50: Train accuracy = 74.0%
+2016-09-17 20:44:03.788155: Step 50: Cross entropy = 0.992172
+2016-09-17 20:44:03.968869: Step 50: Validation accuracy = 59.0%
+2016-09-17 20:44:05.966663: Step 60: Train accuracy = 78.0%
+2016-09-17 20:44:05.966789: Step 60: Cross entropy = 0.823344
+2016-09-17 20:44:06.160626: Step 60: Validation accuracy = 57.0%
+2016-09-17 20:44:08.183148: Step 70: Train accuracy = 77.0%
+2016-09-17 20:44:08.183274: Step 70: Cross entropy = 0.849851
+2016-09-17 20:44:08.376332: Step 70: Validation accuracy = 64.0%
+2016-09-17 20:44:10.373344: Step 80: Train accuracy = 73.0%
+2016-09-17 20:44:10.373502: Step 80: Cross entropy = 0.823849
+2016-09-17 20:44:10.559011: Step 80: Validation accuracy = 65.0%
+2016-09-17 20:44:12.357786: Step 90: Train accuracy = 78.0%
+2016-09-17 20:44:12.357910: Step 90: Cross entropy = 0.834195
+2016-09-17 20:44:12.533413: Step 90: Validation accuracy = 58.0%
+2016-09-17 20:44:14.348078: Step 100: Train accuracy = 69.0%
+2016-09-17 20:44:14.348204: Step 100: Cross entropy = 0.844915
+2016-09-17 20:44:14.524233: Step 100: Validation accuracy = 63.0%
+2016-09-17 20:44:16.337548: Step 110: Train accuracy = 85.0%
+2016-09-17 20:44:16.337677: Step 110: Cross entropy = 0.736463
+2016-09-17 20:44:16.511756: Step 110: Validation accuracy = 70.0%
+2016-09-17 20:44:18.306507: Step 120: Train accuracy = 83.0%
+2016-09-17 20:44:18.306635: Step 120: Cross entropy = 0.766276
+2016-09-17 20:44:18.479190: Step 120: Validation accuracy = 53.0%
+2016-09-17 20:44:20.273138: Step 130: Train accuracy = 78.0%
+2016-09-17 20:44:20.273266: Step 130: Cross entropy = 0.796550
+2016-09-17 20:44:20.447367: Step 130: Validation accuracy = 65.0%
+2016-09-17 20:44:22.253374: Step 140: Train accuracy = 75.0%
+2016-09-17 20:44:22.253498: Step 140: Cross entropy = 0.721661
+2016-09-17 20:44:22.427078: Step 140: Validation accuracy = 76.0%
+2016-09-17 20:44:24.228180: Step 150: Train accuracy = 77.0%
+2016-09-17 20:44:24.228307: Step 150: Cross entropy = 0.789569
+2016-09-17 20:44:24.403506: Step 150: Validation accuracy = 61.0%
+2016-09-17 20:44:26.203396: Step 160: Train accuracy = 78.0%
+2016-09-17 20:44:26.203519: Step 160: Cross entropy = 0.761752
+2016-09-17 20:44:26.380634: Step 160: Validation accuracy = 72.0%
+2016-09-17 20:44:28.179349: Step 170: Train accuracy = 72.0%
+2016-09-17 20:44:28.179475: Step 170: Cross entropy = 0.829700
+2016-09-17 20:44:28.358775: Step 170: Validation accuracy = 66.0%
+2016-09-17 20:44:30.153887: Step 180: Train accuracy = 79.0%
+2016-09-17 20:44:30.154043: Step 180: Cross entropy = 0.760407
+2016-09-17 20:44:30.333042: Step 180: Validation accuracy = 63.0%
+2016-09-17 20:44:32.125609: Step 190: Train accuracy = 83.0%
+2016-09-17 20:44:32.125735: Step 190: Cross entropy = 0.628232
+2016-09-17 20:44:32.303132: Step 190: Validation accuracy = 61.0%
+2016-09-17 20:44:34.155728: Step 200: Train accuracy = 84.0%
+2016-09-17 20:44:34.155857: Step 200: Cross entropy = 0.653873
+2016-09-17 20:44:34.341297: Step 200: Validation accuracy = 73.0%
+2016-09-17 20:44:36.361899: Step 210: Train accuracy = 80.0%
+2016-09-17 20:44:36.362037: Step 210: Cross entropy = 0.640334
+2016-09-17 20:44:36.565258: Step 210: Validation accuracy = 73.0%
+2016-09-17 20:44:38.475790: Step 220: Train accuracy = 77.0%
+2016-09-17 20:44:38.475915: Step 220: Cross entropy = 0.738966
+2016-09-17 20:44:38.683225: Step 220: Validation accuracy = 73.0%
+2016-09-17 20:44:40.698715: Step 230: Train accuracy = 88.0%
+2016-09-17 20:44:40.698849: Step 230: Cross entropy = 0.621994
+2016-09-17 20:44:40.882771: Step 230: Validation accuracy = 68.0%
+2016-09-17 20:44:42.854382: Step 240: Train accuracy = 90.0%
+2016-09-17 20:44:42.854520: Step 240: Cross entropy = 0.551789
+2016-09-17 20:44:43.095236: Step 240: Validation accuracy = 78.0%
+2016-09-17 20:44:45.151707: Step 250: Train accuracy = 85.0%
+2016-09-17 20:44:45.151831: Step 250: Cross entropy = 0.570165
+2016-09-17 20:44:45.334351: Step 250: Validation accuracy = 64.0%
+2016-09-17 20:44:47.276940: Step 260: Train accuracy = 80.0%
+2016-09-17 20:44:47.277068: Step 260: Cross entropy = 0.620612
+2016-09-17 20:44:47.461210: Step 260: Validation accuracy = 68.0%
+2016-09-17 20:44:49.356690: Step 270: Train accuracy = 78.0%
+2016-09-17 20:44:49.356826: Step 270: Cross entropy = 0.588333
+2016-09-17 20:44:49.531251: Step 270: Validation accuracy = 58.0%
+2016-09-17 20:44:51.386886: Step 280: Train accuracy = 91.0%
+2016-09-17 20:44:51.387017: Step 280: Cross entropy = 0.540096
+2016-09-17 20:44:51.590114: Step 280: Validation accuracy = 70.0%
+2016-09-17 20:44:53.425179: Step 290: Train accuracy = 78.0%
+2016-09-17 20:44:53.425306: Step 290: Cross entropy = 0.631688
+2016-09-17 20:44:53.598800: Step 290: Validation accuracy = 73.0%
+2016-09-17 20:44:55.393759: Step 300: Train accuracy = 92.0%
+2016-09-17 20:44:55.393882: Step 300: Cross entropy = 0.465163
+2016-09-17 20:44:55.571400: Step 300: Validation accuracy = 73.0%
+2016-09-17 20:44:57.376111: Step 310: Train accuracy = 83.0%
+2016-09-17 20:44:57.376237: Step 310: Cross entropy = 0.608255
+2016-09-17 20:44:57.554572: Step 310: Validation accuracy = 74.0%
+2016-09-17 20:44:59.356372: Step 320: Train accuracy = 84.0%
+2016-09-17 20:44:59.356532: Step 320: Cross entropy = 0.604517
+2016-09-17 20:44:59.531207: Step 320: Validation accuracy = 60.0%
+2016-09-17 20:45:01.350169: Step 330: Train accuracy = 88.0%
+2016-09-17 20:45:01.350294: Step 330: Cross entropy = 0.540032
+2016-09-17 20:45:01.524563: Step 330: Validation accuracy = 69.0%
+2016-09-17 20:45:03.362263: Step 340: Train accuracy = 86.0%
+2016-09-17 20:45:03.362387: Step 340: Cross entropy = 0.550744
+2016-09-17 20:45:03.536632: Step 340: Validation accuracy = 69.0%
+2016-09-17 20:45:05.328191: Step 350: Train accuracy = 82.0%
+2016-09-17 20:45:05.328321: Step 350: Cross entropy = 0.594525
+2016-09-17 20:45:05.502330: Step 350: Validation accuracy = 70.0%
+2016-09-17 20:45:07.299734: Step 360: Train accuracy = 86.0%
+2016-09-17 20:45:07.299859: Step 360: Cross entropy = 0.546199
+2016-09-17 20:45:07.473496: Step 360: Validation accuracy = 70.0%
+2016-09-17 20:45:09.268025: Step 370: Train accuracy = 86.0%
+2016-09-17 20:45:09.268150: Step 370: Cross entropy = 0.522543
+2016-09-17 20:45:09.441875: Step 370: Validation accuracy = 63.0%
+2016-09-17 20:45:11.237152: Step 380: Train accuracy = 91.0%
+2016-09-17 20:45:11.237286: Step 380: Cross entropy = 0.455506
+2016-09-17 20:45:11.410869: Step 380: Validation accuracy = 70.0%
+2016-09-17 20:45:13.205166: Step 390: Train accuracy = 80.0%
+2016-09-17 20:45:13.205289: Step 390: Cross entropy = 0.574196
+2016-09-17 20:45:13.379118: Step 390: Validation accuracy = 70.0%
+2016-09-17 20:45:15.170266: Step 400: Train accuracy = 91.0%
+2016-09-17 20:45:15.170394: Step 400: Cross entropy = 0.475177
+2016-09-17 20:45:15.347152: Step 400: Validation accuracy = 63.0%
+2016-09-17 20:45:17.141003: Step 410: Train accuracy = 87.0%
+2016-09-17 20:45:17.141155: Step 410: Cross entropy = 0.454134
+2016-09-17 20:45:17.316399: Step 410: Validation accuracy = 67.0%
+2016-09-17 20:45:19.109337: Step 420: Train accuracy = 85.0%
+2016-09-17 20:45:19.109462: Step 420: Cross entropy = 0.538981
+2016-09-17 20:45:19.281483: Step 420: Validation accuracy = 74.0%
+2016-09-17 20:45:21.081083: Step 430: Train accuracy = 81.0%
+2016-09-17 20:45:21.081207: Step 430: Cross entropy = 0.597821
+2016-09-17 20:45:21.256066: Step 430: Validation accuracy = 73.0%
+2016-09-17 20:45:23.051504: Step 440: Train accuracy = 90.0%
+2016-09-17 20:45:23.051627: Step 440: Cross entropy = 0.469746
+2016-09-17 20:45:23.228892: Step 440: Validation accuracy = 75.0%
+2016-09-17 20:45:25.018827: Step 450: Train accuracy = 89.0%
+2016-09-17 20:45:25.018984: Step 450: Cross entropy = 0.493024
+2016-09-17 20:45:25.193406: Step 450: Validation accuracy = 79.0%
+2016-09-17 20:45:26.984846: Step 460: Train accuracy = 90.0%
+2016-09-17 20:45:26.984971: Step 460: Cross entropy = 0.483599
+2016-09-17 20:45:27.158740: Step 460: Validation accuracy = 72.0%
+2016-09-17 20:45:28.963692: Step 470: Train accuracy = 86.0%
+2016-09-17 20:45:28.963816: Step 470: Cross entropy = 0.507347
+2016-09-17 20:45:29.137979: Step 470: Validation accuracy = 71.0%
+2016-09-17 20:45:30.944281: Step 480: Train accuracy = 88.0%
+2016-09-17 20:45:30.944404: Step 480: Cross entropy = 0.448251
+2016-09-17 20:45:31.116048: Step 480: Validation accuracy = 77.0%
+2016-09-17 20:45:32.912335: Step 490: Train accuracy = 89.0%
+2016-09-17 20:45:32.912500: Step 490: Cross entropy = 0.489372
+2016-09-17 20:45:33.084229: Step 490: Validation accuracy = 69.0%
+2016-09-17 20:45:34.872428: Step 500: Train accuracy = 93.0%
+2016-09-17 20:45:34.872552: Step 500: Cross entropy = 0.426165
+2016-09-17 20:45:35.047214: Step 500: Validation accuracy = 74.0%
+2016-09-17 20:45:36.844273: Step 510: Train accuracy = 89.0%
+2016-09-17 20:45:36.844397: Step 510: Cross entropy = 0.462583
+2016-09-17 20:45:37.016781: Step 510: Validation accuracy = 70.0%
+2016-09-17 20:45:38.804029: Step 520: Train accuracy = 89.0%
+2016-09-17 20:45:38.804154: Step 520: Cross entropy = 0.438996
+2016-09-17 20:45:38.978903: Step 520: Validation accuracy = 66.0%
+2016-09-17 20:45:40.774275: Step 530: Train accuracy = 94.0%
+2016-09-17 20:45:40.774401: Step 530: Cross entropy = 0.402703
+2016-09-17 20:45:40.947860: Step 530: Validation accuracy = 62.0%
+2016-09-17 20:45:42.745328: Step 540: Train accuracy = 91.0%
+2016-09-17 20:45:42.745456: Step 540: Cross entropy = 0.406807
+2016-09-17 20:45:42.920545: Step 540: Validation accuracy = 67.0%
+2016-09-17 20:45:44.725067: Step 550: Train accuracy = 92.0%
+2016-09-17 20:45:44.725194: Step 550: Cross entropy = 0.413935
+2016-09-17 20:45:44.899332: Step 550: Validation accuracy = 74.0%
+2016-09-17 20:45:46.709145: Step 560: Train accuracy = 90.0%
+2016-09-17 20:45:46.709270: Step 560: Cross entropy = 0.462679
+2016-09-17 20:45:46.882189: Step 560: Validation accuracy = 65.0%
+2016-09-17 20:45:48.680175: Step 570: Train accuracy = 87.0%
+2016-09-17 20:45:48.680303: Step 570: Cross entropy = 0.436999
+2016-09-17 20:45:48.854760: Step 570: Validation accuracy = 69.0%
+2016-09-17 20:45:50.660254: Step 580: Train accuracy = 87.0%
+2016-09-17 20:45:50.660379: Step 580: Cross entropy = 0.474489
+2016-09-17 20:45:50.832714: Step 580: Validation accuracy = 62.0%
+2016-09-17 20:45:52.620843: Step 590: Train accuracy = 89.0%
+2016-09-17 20:45:52.620969: Step 590: Cross entropy = 0.459984
+2016-09-17 20:45:52.794688: Step 590: Validation accuracy = 68.0%
+2016-09-17 20:45:54.591929: Step 600: Train accuracy = 88.0%
+2016-09-17 20:45:54.592052: Step 600: Cross entropy = 0.440437
+2016-09-17 20:45:54.763260: Step 600: Validation accuracy = 61.0%
+2016-09-17 20:45:56.565233: Step 610: Train accuracy = 87.0%
+2016-09-17 20:45:56.565357: Step 610: Cross entropy = 0.452735
+2016-09-17 20:45:56.738914: Step 610: Validation accuracy = 71.0%
+2016-09-17 20:45:58.542580: Step 620: Train accuracy = 89.0%
+2016-09-17 20:45:58.542707: Step 620: Cross entropy = 0.452162
+2016-09-17 20:45:58.717972: Step 620: Validation accuracy = 60.0%
+2016-09-17 20:46:00.530468: Step 630: Train accuracy = 91.0%
+2016-09-17 20:46:00.530592: Step 630: Cross entropy = 0.430413
+2016-09-17 20:46:00.705148: Step 630: Validation accuracy = 73.0%
+2016-09-17 20:46:02.501282: Step 640: Train accuracy = 85.0%
+2016-09-17 20:46:02.501406: Step 640: Cross entropy = 0.476097
+2016-09-17 20:46:02.677388: Step 640: Validation accuracy = 68.0%
+2016-09-17 20:46:04.471078: Step 650: Train accuracy = 91.0%
+2016-09-17 20:46:04.471201: Step 650: Cross entropy = 0.434765
+2016-09-17 20:46:04.648045: Step 650: Validation accuracy = 73.0%
+2016-09-17 20:46:06.443552: Step 660: Train accuracy = 88.0%
+2016-09-17 20:46:06.443677: Step 660: Cross entropy = 0.451312
+2016-09-17 20:46:06.620180: Step 660: Validation accuracy = 77.0%
+2016-09-17 20:46:08.412349: Step 670: Train accuracy = 92.0%
+2016-09-17 20:46:08.412473: Step 670: Cross entropy = 0.415281
+2016-09-17 20:46:08.589684: Step 670: Validation accuracy = 69.0%
+2016-09-17 20:46:10.387891: Step 680: Train accuracy = 90.0%
+2016-09-17 20:46:10.388015: Step 680: Cross entropy = 0.400649
+2016-09-17 20:46:10.562232: Step 680: Validation accuracy = 65.0%
+2016-09-17 20:46:12.373478: Step 690: Train accuracy = 85.0%
+2016-09-17 20:46:12.373604: Step 690: Cross entropy = 0.492511
+2016-09-17 20:46:12.548785: Step 690: Validation accuracy = 58.0%
+2016-09-17 20:46:14.349050: Step 700: Train accuracy = 96.0%
+2016-09-17 20:46:14.349178: Step 700: Cross entropy = 0.384922
+2016-09-17 20:46:14.521877: Step 700: Validation accuracy = 69.0%
+2016-09-17 20:46:16.317061: Step 710: Train accuracy = 91.0%
+2016-09-17 20:46:16.317210: Step 710: Cross entropy = 0.415695
+2016-09-17 20:46:16.505251: Step 710: Validation accuracy = 69.0%
+2016-09-17 20:46:18.293305: Step 720: Train accuracy = 95.0%
+2016-09-17 20:46:18.293430: Step 720: Cross entropy = 0.354750
+2016-09-17 20:46:18.464747: Step 720: Validation accuracy = 63.0%
+2016-09-17 20:46:20.252858: Step 730: Train accuracy = 89.0%
+2016-09-17 20:46:20.252986: Step 730: Cross entropy = 0.493938
+2016-09-17 20:46:20.430060: Step 730: Validation accuracy = 66.0%
+2016-09-17 20:46:22.217631: Step 740: Train accuracy = 97.0%
+2016-09-17 20:46:22.217755: Step 740: Cross entropy = 0.350078
+2016-09-17 20:46:22.395672: Step 740: Validation accuracy = 71.0%
+2016-09-17 20:46:24.215691: Step 750: Train accuracy = 95.0%
+2016-09-17 20:46:24.215814: Step 750: Cross entropy = 0.326081
+2016-09-17 20:46:24.391118: Step 750: Validation accuracy = 69.0%
+2016-09-17 20:46:26.192484: Step 760: Train accuracy = 90.0%
+2016-09-17 20:46:26.192610: Step 760: Cross entropy = 0.441219
+2016-09-17 20:46:26.370542: Step 760: Validation accuracy = 72.0%
+2016-09-17 20:46:28.170184: Step 770: Train accuracy = 91.0%
+2016-09-17 20:46:28.170311: Step 770: Cross entropy = 0.455441
+2016-09-17 20:46:28.346042: Step 770: Validation accuracy = 68.0%
+2016-09-17 20:46:30.137008: Step 780: Train accuracy = 90.0%
+2016-09-17 20:46:30.137163: Step 780: Cross entropy = 0.421219
+2016-09-17 20:46:30.312345: Step 780: Validation accuracy = 62.0%
+2016-09-17 20:46:32.107285: Step 790: Train accuracy = 97.0%
+2016-09-17 20:46:32.107406: Step 790: Cross entropy = 0.348589
+2016-09-17 20:46:32.282398: Step 790: Validation accuracy = 61.0%
+2016-09-17 20:46:34.076763: Step 800: Train accuracy = 90.0%
+2016-09-17 20:46:34.076890: Step 800: Cross entropy = 0.431553
+2016-09-17 20:46:34.250363: Step 800: Validation accuracy = 63.0%
+2016-09-17 20:46:36.033066: Step 810: Train accuracy = 91.0%
+2016-09-17 20:46:36.033219: Step 810: Cross entropy = 0.379446
+2016-09-17 20:46:36.204864: Step 810: Validation accuracy = 79.0%
+2016-09-17 20:46:38.033370: Step 820: Train accuracy = 91.0%
+2016-09-17 20:46:38.033593: Step 820: Cross entropy = 0.369018
+2016-09-17 20:46:38.215442: Step 820: Validation accuracy = 56.0%
+2016-09-17 20:46:40.160147: Step 830: Train accuracy = 94.0%
+2016-09-17 20:46:40.160279: Step 830: Cross entropy = 0.361193
+2016-09-17 20:46:40.345401: Step 830: Validation accuracy = 64.0%
+2016-09-17 20:46:42.161320: Step 840: Train accuracy = 90.0%
+2016-09-17 20:46:42.161450: Step 840: Cross entropy = 0.383830
+2016-09-17 20:46:42.336672: Step 840: Validation accuracy = 62.0%
+2016-09-17 20:46:44.192770: Step 850: Train accuracy = 89.0%
+2016-09-17 20:46:44.192894: Step 850: Cross entropy = 0.422166
+2016-09-17 20:46:44.366006: Step 850: Validation accuracy = 59.0%
+2016-09-17 20:46:46.202974: Step 860: Train accuracy = 94.0%
+2016-09-17 20:46:46.203102: Step 860: Cross entropy = 0.317730
+2016-09-17 20:46:46.383603: Step 860: Validation accuracy = 68.0%
+2016-09-17 20:46:48.215985: Step 870: Train accuracy = 86.0%
+2016-09-17 20:46:48.216111: Step 870: Cross entropy = 0.406020
+2016-09-17 20:46:48.392952: Step 870: Validation accuracy = 68.0%
+2016-09-17 20:46:50.199380: Step 880: Train accuracy = 93.0%
+2016-09-17 20:46:50.199532: Step 880: Cross entropy = 0.380444
+2016-09-17 20:46:50.375025: Step 880: Validation accuracy = 66.0%
+2016-09-17 20:46:52.174962: Step 890: Train accuracy = 89.0%
+2016-09-17 20:46:52.175094: Step 890: Cross entropy = 0.410281
+2016-09-17 20:46:52.351724: Step 890: Validation accuracy = 63.0%
+2016-09-17 20:46:54.361653: Step 900: Train accuracy = 91.0%
+2016-09-17 20:46:54.361777: Step 900: Cross entropy = 0.379325
+2016-09-17 20:46:54.538228: Step 900: Validation accuracy = 68.0%
+2016-09-17 20:46:56.344560: Step 910: Train accuracy = 94.0%
+2016-09-17 20:46:56.344686: Step 910: Cross entropy = 0.369826
+2016-09-17 20:46:56.518290: Step 910: Validation accuracy = 66.0%
+2016-09-17 20:46:58.315382: Step 920: Train accuracy = 88.0%
+2016-09-17 20:46:58.315508: Step 920: Cross entropy = 0.423305
+2016-09-17 20:46:58.488795: Step 920: Validation accuracy = 64.0%
+2016-09-17 20:47:00.297222: Step 930: Train accuracy = 92.0%
+2016-09-17 20:47:00.297385: Step 930: Cross entropy = 0.376329
+2016-09-17 20:47:00.485338: Step 930: Validation accuracy = 67.0%
+2016-09-17 20:47:02.298489: Step 940: Train accuracy = 91.0%
+2016-09-17 20:47:02.298613: Step 940: Cross entropy = 0.341556
+2016-09-17 20:47:02.473768: Step 940: Validation accuracy = 66.0%
+2016-09-17 20:47:04.283647: Step 950: Train accuracy = 95.0%
+2016-09-17 20:47:04.283776: Step 950: Cross entropy = 0.303394
+2016-09-17 20:47:04.458293: Step 950: Validation accuracy = 68.0%
+2016-09-17 20:47:06.280330: Step 960: Train accuracy = 93.0%
+2016-09-17 20:47:06.280495: Step 960: Cross entropy = 0.341072
+2016-09-17 20:47:06.457776: Step 960: Validation accuracy = 66.0%
+2016-09-17 20:47:08.275985: Step 970: Train accuracy = 97.0%
+2016-09-17 20:47:08.276110: Step 970: Cross entropy = 0.305078
+2016-09-17 20:47:08.450179: Step 970: Validation accuracy = 72.0%
+2016-09-17 20:47:10.282958: Step 980: Train accuracy = 95.0%
+2016-09-17 20:47:10.283084: Step 980: Cross entropy = 0.324742
+2016-09-17 20:47:10.457075: Step 980: Validation accuracy = 67.0%
+2016-09-17 20:47:12.264552: Step 990: Train accuracy = 93.0%
+2016-09-17 20:47:12.264746: Step 990: Cross entropy = 0.354202
+2016-09-17 20:47:12.436886: Step 990: Validation accuracy = 62.0%
+2016-09-17 20:47:14.217414: Step 1000: Train accuracy = 85.0%
+2016-09-17 20:47:14.217537: Step 1000: Cross entropy = 0.427551
+2016-09-17 20:47:14.390600: Step 1000: Validation accuracy = 67.0%
+2016-09-17 20:47:16.178293: Step 1010: Train accuracy = 91.0%
+2016-09-17 20:47:16.178420: Step 1010: Cross entropy = 0.356611
+2016-09-17 20:47:16.357051: Step 1010: Validation accuracy = 67.0%
+2016-09-17 20:47:18.146121: Step 1020: Train accuracy = 93.0%
+2016-09-17 20:47:18.146247: Step 1020: Cross entropy = 0.319001
+2016-09-17 20:47:18.321036: Step 1020: Validation accuracy = 58.0%
+2016-09-17 20:47:20.102938: Step 1030: Train accuracy = 94.0%
+2016-09-17 20:47:20.103064: Step 1030: Cross entropy = 0.322289
+2016-09-17 20:47:20.277872: Step 1030: Validation accuracy = 73.0%
+2016-09-17 20:47:22.076940: Step 1040: Train accuracy = 94.0%
+2016-09-17 20:47:22.077089: Step 1040: Cross entropy = 0.308246
+2016-09-17 20:47:22.253746: Step 1040: Validation accuracy = 62.0%
+2016-09-17 20:47:24.046420: Step 1050: Train accuracy = 93.0%
+2016-09-17 20:47:24.046575: Step 1050: Cross entropy = 0.309984
+2016-09-17 20:47:24.219902: Step 1050: Validation accuracy = 68.0%
+2016-09-17 20:47:26.020652: Step 1060: Train accuracy = 96.0%
+2016-09-17 20:47:26.020777: Step 1060: Cross entropy = 0.317312
+2016-09-17 20:47:26.194790: Step 1060: Validation accuracy = 65.0%
+2016-09-17 20:47:27.982635: Step 1070: Train accuracy = 91.0%
+2016-09-17 20:47:27.982759: Step 1070: Cross entropy = 0.355741
+2016-09-17 20:47:28.155081: Step 1070: Validation accuracy = 73.0%
+2016-09-17 20:47:29.953053: Step 1080: Train accuracy = 92.0%
+2016-09-17 20:47:29.953177: Step 1080: Cross entropy = 0.350936
+2016-09-17 20:47:30.129074: Step 1080: Validation accuracy = 57.0%
+2016-09-17 20:47:31.925768: Step 1090: Train accuracy = 95.0%
+2016-09-17 20:47:31.925892: Step 1090: Cross entropy = 0.293691
+2016-09-17 20:47:32.098592: Step 1090: Validation accuracy = 65.0%
+2016-09-17 20:47:33.881650: Step 1100: Train accuracy = 91.0%
+2016-09-17 20:47:33.881810: Step 1100: Cross entropy = 0.369295
+2016-09-17 20:47:34.053599: Step 1100: Validation accuracy = 59.0%
+2016-09-17 20:47:35.855325: Step 1110: Train accuracy = 96.0%
+2016-09-17 20:47:35.855450: Step 1110: Cross entropy = 0.338852
+2016-09-17 20:47:36.029869: Step 1110: Validation accuracy = 70.0%
+2016-09-17 20:47:37.829061: Step 1120: Train accuracy = 94.0%
+2016-09-17 20:47:37.829187: Step 1120: Cross entropy = 0.339831
+2016-09-17 20:47:37.999974: Step 1120: Validation accuracy = 67.0%
+2016-09-17 20:47:39.773266: Step 1130: Train accuracy = 92.0%
+2016-09-17 20:47:39.773387: Step 1130: Cross entropy = 0.355871
+2016-09-17 20:47:39.943854: Step 1130: Validation accuracy = 73.0%
+2016-09-17 20:47:41.726676: Step 1140: Train accuracy = 91.0%
+2016-09-17 20:47:41.726807: Step 1140: Cross entropy = 0.326569
+2016-09-17 20:47:41.915441: Step 1140: Validation accuracy = 64.0%
+2016-09-17 20:47:43.731985: Step 1150: Train accuracy = 96.0%
+2016-09-17 20:47:43.732110: Step 1150: Cross entropy = 0.295481
+2016-09-17 20:47:43.903454: Step 1150: Validation accuracy = 68.0%
+2016-09-17 20:47:45.714503: Step 1160: Train accuracy = 96.0%
+2016-09-17 20:47:45.714628: Step 1160: Cross entropy = 0.336017
+2016-09-17 20:47:45.886303: Step 1160: Validation accuracy = 62.0%
+2016-09-17 20:47:47.699920: Step 1170: Train accuracy = 95.0%
+2016-09-17 20:47:47.700045: Step 1170: Cross entropy = 0.282535
+2016-09-17 20:47:47.881314: Step 1170: Validation accuracy = 69.0%
+2016-09-17 20:47:49.692543: Step 1180: Train accuracy = 92.0%
+2016-09-17 20:47:49.692669: Step 1180: Cross entropy = 0.302294
+2016-09-17 20:47:49.865784: Step 1180: Validation accuracy = 69.0%
+2016-09-17 20:47:51.679878: Step 1190: Train accuracy = 96.0%
+2016-09-17 20:47:51.680001: Step 1190: Cross entropy = 0.274075
+2016-09-17 20:47:51.853973: Step 1190: Validation accuracy = 63.0%
+2016-09-17 20:47:53.653486: Step 1200: Train accuracy = 96.0%
+2016-09-17 20:47:53.653637: Step 1200: Cross entropy = 0.296608
+2016-09-17 20:47:53.828051: Step 1200: Validation accuracy = 64.0%
+2016-09-17 20:47:55.623916: Step 1210: Train accuracy = 94.0%
+2016-09-17 20:47:55.624071: Step 1210: Cross entropy = 0.330560
+2016-09-17 20:47:55.797729: Step 1210: Validation accuracy = 77.0%
+2016-09-17 20:47:57.591186: Step 1220: Train accuracy = 96.0%
+2016-09-17 20:47:57.591312: Step 1220: Cross entropy = 0.288315
+2016-09-17 20:47:57.765058: Step 1220: Validation accuracy = 60.0%
+2016-09-17 20:47:59.563291: Step 1230: Train accuracy = 95.0%
+2016-09-17 20:47:59.563416: Step 1230: Cross entropy = 0.290224
+2016-09-17 20:47:59.736867: Step 1230: Validation accuracy = 68.0%
+2016-09-17 20:48:01.536016: Step 1240: Train accuracy = 93.0%
+2016-09-17 20:48:01.536146: Step 1240: Cross entropy = 0.314808
+2016-09-17 20:48:01.710784: Step 1240: Validation accuracy = 71.0%
+2016-09-17 20:48:03.498175: Step 1250: Train accuracy = 93.0%
+2016-09-17 20:48:03.498300: Step 1250: Cross entropy = 0.277876
+2016-09-17 20:48:03.672060: Step 1250: Validation accuracy = 60.0%
+2016-09-17 20:48:05.460875: Step 1260: Train accuracy = 92.0%
+2016-09-17 20:48:05.460999: Step 1260: Cross entropy = 0.303393
+2016-09-17 20:48:05.633886: Step 1260: Validation accuracy = 68.0%
+2016-09-17 20:48:07.423446: Step 1270: Train accuracy = 93.0%
+2016-09-17 20:48:07.423574: Step 1270: Cross entropy = 0.346642
+2016-09-17 20:48:07.598435: Step 1270: Validation accuracy = 70.0%
+2016-09-17 20:48:09.381728: Step 1280: Train accuracy = 96.0%
+2016-09-17 20:48:09.381854: Step 1280: Cross entropy = 0.240051
+2016-09-17 20:48:09.554801: Step 1280: Validation accuracy = 67.0%
+2016-09-17 20:48:11.340619: Step 1290: Train accuracy = 94.0%
+2016-09-17 20:48:11.340743: Step 1290: Cross entropy = 0.310620
+2016-09-17 20:48:11.512764: Step 1290: Validation accuracy = 67.0%
+2016-09-17 20:48:13.304074: Step 1300: Train accuracy = 96.0%
+2016-09-17 20:48:13.304198: Step 1300: Cross entropy = 0.281697
+2016-09-17 20:48:13.475270: Step 1300: Validation accuracy = 74.0%
+2016-09-17 20:48:15.254917: Step 1310: Train accuracy = 94.0%
+2016-09-17 20:48:15.255040: Step 1310: Cross entropy = 0.285024
+2016-09-17 20:48:15.430359: Step 1310: Validation accuracy = 71.0%
+2016-09-17 20:48:17.209648: Step 1320: Train accuracy = 90.0%
+2016-09-17 20:48:17.209772: Step 1320: Cross entropy = 0.327701
+2016-09-17 20:48:17.384418: Step 1320: Validation accuracy = 65.0%
+2016-09-17 20:48:19.184774: Step 1330: Train accuracy = 93.0%
+2016-09-17 20:48:19.184900: Step 1330: Cross entropy = 0.296592
+2016-09-17 20:48:19.362988: Step 1330: Validation accuracy = 68.0%
+2016-09-17 20:48:21.164388: Step 1340: Train accuracy = 92.0%
+2016-09-17 20:48:21.164512: Step 1340: Cross entropy = 0.302097
+2016-09-17 20:48:21.340992: Step 1340: Validation accuracy = 66.0%
+2016-09-17 20:48:23.255501: Step 1350: Train accuracy = 93.0%
+2016-09-17 20:48:23.255661: Step 1350: Cross entropy = 0.280489
+2016-09-17 20:48:23.454276: Step 1350: Validation accuracy = 75.0%
+2016-09-17 20:48:25.292327: Step 1360: Train accuracy = 96.0%
+2016-09-17 20:48:25.292452: Step 1360: Cross entropy = 0.269128
+2016-09-17 20:48:25.463160: Step 1360: Validation accuracy = 75.0%
+2016-09-17 20:48:27.296281: Step 1370: Train accuracy = 97.0%
+2016-09-17 20:48:27.296403: Step 1370: Cross entropy = 0.265920
+2016-09-17 20:48:27.470703: Step 1370: Validation accuracy = 66.0%
+2016-09-17 20:48:29.289240: Step 1380: Train accuracy = 97.0%
+2016-09-17 20:48:29.289365: Step 1380: Cross entropy = 0.262127
+2016-09-17 20:48:29.473572: Step 1380: Validation accuracy = 68.0%
+2016-09-17 20:48:31.311536: Step 1390: Train accuracy = 94.0%
+2016-09-17 20:48:31.311659: Step 1390: Cross entropy = 0.261696
+2016-09-17 20:48:31.483812: Step 1390: Validation accuracy = 70.0%
+2016-09-17 20:48:33.292290: Step 1400: Train accuracy = 98.0%
+2016-09-17 20:48:33.292415: Step 1400: Cross entropy = 0.289990
+2016-09-17 20:48:33.464749: Step 1400: Validation accuracy = 67.0%
+2016-09-17 20:48:35.273729: Step 1410: Train accuracy = 94.0%
+2016-09-17 20:48:35.273854: Step 1410: Cross entropy = 0.303249
+2016-09-17 20:48:35.448921: Step 1410: Validation accuracy = 63.0%
+2016-09-17 20:48:37.227663: Step 1420: Train accuracy = 97.0%
+2016-09-17 20:48:37.227790: Step 1420: Cross entropy = 0.280230
+2016-09-17 20:48:37.401140: Step 1420: Validation accuracy = 69.0%
+2016-09-17 20:48:39.173169: Step 1430: Train accuracy = 94.0%
+2016-09-17 20:48:39.173295: Step 1430: Cross entropy = 0.264043
+2016-09-17 20:48:39.349704: Step 1430: Validation accuracy = 77.0%
+2016-09-17 20:48:41.120255: Step 1440: Train accuracy = 93.0%
+2016-09-17 20:48:41.120409: Step 1440: Cross entropy = 0.308071
+2016-09-17 20:48:41.296794: Step 1440: Validation accuracy = 79.0%
+2016-09-17 20:48:43.071582: Step 1450: Train accuracy = 97.0%
+2016-09-17 20:48:43.071734: Step 1450: Cross entropy = 0.255196
+2016-09-17 20:48:43.245059: Step 1450: Validation accuracy = 68.0%
+2016-09-17 20:48:45.031725: Step 1460: Train accuracy = 96.0%
+2016-09-17 20:48:45.031850: Step 1460: Cross entropy = 0.299466
+2016-09-17 20:48:45.203606: Step 1460: Validation accuracy = 64.0%
+2016-09-17 20:48:46.997629: Step 1470: Train accuracy = 94.0%
+2016-09-17 20:48:46.997754: Step 1470: Cross entropy = 0.270399
+2016-09-17 20:48:47.171243: Step 1470: Validation accuracy = 64.0%
+2016-09-17 20:48:48.971551: Step 1480: Train accuracy = 96.0%
+2016-09-17 20:48:48.971679: Step 1480: Cross entropy = 0.239949
+2016-09-17 20:48:49.145721: Step 1480: Validation accuracy = 64.0%
+2016-09-17 20:48:50.931281: Step 1490: Train accuracy = 94.0%
+2016-09-17 20:48:50.931406: Step 1490: Cross entropy = 0.277394
+2016-09-17 20:48:51.104433: Step 1490: Validation accuracy = 58.0%
+2016-09-17 20:48:52.877822: Step 1500: Train accuracy = 96.0%
+2016-09-17 20:48:52.877946: Step 1500: Cross entropy = 0.247737
+2016-09-17 20:48:53.050496: Step 1500: Validation accuracy = 56.0%
+2016-09-17 20:48:54.867603: Step 1510: Train accuracy = 96.0%
+2016-09-17 20:48:54.867729: Step 1510: Cross entropy = 0.244713
+2016-09-17 20:48:55.046481: Step 1510: Validation accuracy = 59.0%
+2016-09-17 20:48:56.847819: Step 1520: Train accuracy = 93.0%
+2016-09-17 20:48:56.847940: Step 1520: Cross entropy = 0.294090
+2016-09-17 20:48:57.019230: Step 1520: Validation accuracy = 63.0%
+2016-09-17 20:48:58.809052: Step 1530: Train accuracy = 95.0%
+2016-09-17 20:48:58.809177: Step 1530: Cross entropy = 0.269810
+2016-09-17 20:48:58.981649: Step 1530: Validation accuracy = 67.0%
+2016-09-17 20:49:00.807325: Step 1540: Train accuracy = 99.0%
+2016-09-17 20:49:00.807449: Step 1540: Cross entropy = 0.241941
+2016-09-17 20:49:00.977825: Step 1540: Validation accuracy = 66.0%
+2016-09-17 20:49:02.752026: Step 1550: Train accuracy = 92.0%
+2016-09-17 20:49:02.752151: Step 1550: Cross entropy = 0.276938
+2016-09-17 20:49:02.925387: Step 1550: Validation accuracy = 64.0%
+2016-09-17 20:49:04.713779: Step 1560: Train accuracy = 93.0%
+2016-09-17 20:49:04.713902: Step 1560: Cross entropy = 0.254884
+2016-09-17 20:49:04.885142: Step 1560: Validation accuracy = 61.0%
+2016-09-17 20:49:06.700139: Step 1570: Train accuracy = 93.0%
+2016-09-17 20:49:06.700262: Step 1570: Cross entropy = 0.291336
+2016-09-17 20:49:06.879168: Step 1570: Validation accuracy = 60.0%
+2016-09-17 20:49:08.686608: Step 1580: Train accuracy = 92.0%
+2016-09-17 20:49:08.686762: Step 1580: Cross entropy = 0.268885
+2016-09-17 20:49:08.861313: Step 1580: Validation accuracy = 67.0%
+2016-09-17 20:49:10.665272: Step 1590: Train accuracy = 94.0%
+2016-09-17 20:49:10.665398: Step 1590: Cross entropy = 0.280684
+2016-09-17 20:49:10.836163: Step 1590: Validation accuracy = 63.0%
+2016-09-17 20:49:12.665769: Step 1600: Train accuracy = 94.0%
+2016-09-17 20:49:12.665937: Step 1600: Cross entropy = 0.257955
+2016-09-17 20:49:12.845420: Step 1600: Validation accuracy = 59.0%
+2016-09-17 20:49:14.672758: Step 1610: Train accuracy = 90.0%
+2016-09-17 20:49:14.672886: Step 1610: Cross entropy = 0.298244
+2016-09-17 20:49:14.844352: Step 1610: Validation accuracy = 68.0%
+2016-09-17 20:49:16.655051: Step 1620: Train accuracy = 95.0%
+2016-09-17 20:49:16.655176: Step 1620: Cross entropy = 0.243543
+2016-09-17 20:49:16.826888: Step 1620: Validation accuracy = 67.0%
+2016-09-17 20:49:18.604605: Step 1630: Train accuracy = 95.0%
+2016-09-17 20:49:18.604729: Step 1630: Cross entropy = 0.265374
+2016-09-17 20:49:18.775929: Step 1630: Validation accuracy = 70.0%
+2016-09-17 20:49:20.555106: Step 1640: Train accuracy = 95.0%
+2016-09-17 20:49:20.555229: Step 1640: Cross entropy = 0.245429
+2016-09-17 20:49:20.728251: Step 1640: Validation accuracy = 65.0%
+2016-09-17 20:49:22.504722: Step 1650: Train accuracy = 95.0%
+2016-09-17 20:49:22.504846: Step 1650: Cross entropy = 0.252834
+2016-09-17 20:49:22.679897: Step 1650: Validation accuracy = 66.0%
+2016-09-17 20:49:24.474865: Step 1660: Train accuracy = 95.0%
+2016-09-17 20:49:24.474990: Step 1660: Cross entropy = 0.243743
+2016-09-17 20:49:24.648219: Step 1660: Validation accuracy = 64.0%
+2016-09-17 20:49:26.433542: Step 1670: Train accuracy = 92.0%
+2016-09-17 20:49:26.433693: Step 1670: Cross entropy = 0.308743
+2016-09-17 20:49:26.608699: Step 1670: Validation accuracy = 68.0%
+2016-09-17 20:49:28.400408: Step 1680: Train accuracy = 94.0%
+2016-09-17 20:49:28.400534: Step 1680: Cross entropy = 0.251425
+2016-09-17 20:49:28.573965: Step 1680: Validation accuracy = 66.0%
+2016-09-17 20:49:30.362264: Step 1690: Train accuracy = 98.0%
+2016-09-17 20:49:30.362386: Step 1690: Cross entropy = 0.211445
+2016-09-17 20:49:30.536249: Step 1690: Validation accuracy = 70.0%
+2016-09-17 20:49:32.322086: Step 1700: Train accuracy = 94.0%
+2016-09-17 20:49:32.322212: Step 1700: Cross entropy = 0.263242
+2016-09-17 20:49:32.494808: Step 1700: Validation accuracy = 62.0%
+2016-09-17 20:49:34.293434: Step 1710: Train accuracy = 98.0%
+2016-09-17 20:49:34.293591: Step 1710: Cross entropy = 0.246828
+2016-09-17 20:49:34.467167: Step 1710: Validation accuracy = 70.0%
+2016-09-17 20:49:36.256473: Step 1720: Train accuracy = 97.0%
+2016-09-17 20:49:36.256596: Step 1720: Cross entropy = 0.251444
+2016-09-17 20:49:36.430856: Step 1720: Validation accuracy = 66.0%
+2016-09-17 20:49:38.217612: Step 1730: Train accuracy = 97.0%
+2016-09-17 20:49:38.217739: Step 1730: Cross entropy = 0.241382
+2016-09-17 20:49:38.395608: Step 1730: Validation accuracy = 65.0%
+2016-09-17 20:49:40.181159: Step 1740: Train accuracy = 97.0%
+2016-09-17 20:49:40.181283: Step 1740: Cross entropy = 0.225985
+2016-09-17 20:49:40.354595: Step 1740: Validation accuracy = 71.0%
+2016-09-17 20:49:42.141735: Step 1750: Train accuracy = 96.0%
+2016-09-17 20:49:42.141860: Step 1750: Cross entropy = 0.217619
+2016-09-17 20:49:42.316904: Step 1750: Validation accuracy = 60.0%
+2016-09-17 20:49:44.106305: Step 1760: Train accuracy = 91.0%
+2016-09-17 20:49:44.106431: Step 1760: Cross entropy = 0.286620
+2016-09-17 20:49:44.283927: Step 1760: Validation accuracy = 58.0%
+2016-09-17 20:49:46.075676: Step 1770: Train accuracy = 96.0%
+2016-09-17 20:49:46.075799: Step 1770: Cross entropy = 0.216602
+2016-09-17 20:49:46.250524: Step 1770: Validation accuracy = 65.0%
+2016-09-17 20:49:48.042471: Step 1780: Train accuracy = 96.0%
+2016-09-17 20:49:48.042631: Step 1780: Cross entropy = 0.252436
+2016-09-17 20:49:48.234864: Step 1780: Validation accuracy = 59.0%
+2016-09-17 20:49:50.048734: Step 1790: Train accuracy = 97.0%
+2016-09-17 20:49:50.048858: Step 1790: Cross entropy = 0.225017
+2016-09-17 20:49:50.223033: Step 1790: Validation accuracy = 62.0%
+2016-09-17 20:49:52.060911: Step 1800: Train accuracy = 98.0%
+2016-09-17 20:49:52.061035: Step 1800: Cross entropy = 0.204982
+2016-09-17 20:49:52.236489: Step 1800: Validation accuracy = 69.0%
+2016-09-17 20:49:54.042097: Step 1810: Train accuracy = 96.0%
+2016-09-17 20:49:54.042249: Step 1810: Cross entropy = 0.232338
+2016-09-17 20:49:54.219195: Step 1810: Validation accuracy = 62.0%
+2016-09-17 20:49:56.037410: Step 1820: Train accuracy = 96.0%
+2016-09-17 20:49:56.037567: Step 1820: Cross entropy = 0.244512
+2016-09-17 20:49:56.211752: Step 1820: Validation accuracy = 77.0%
+2016-09-17 20:49:58.032627: Step 1830: Train accuracy = 97.0%
+2016-09-17 20:49:58.032784: Step 1830: Cross entropy = 0.265763
+2016-09-17 20:49:58.205098: Step 1830: Validation accuracy = 63.0%
+2016-09-17 20:49:59.999579: Step 1840: Train accuracy = 93.0%
+2016-09-17 20:49:59.999703: Step 1840: Cross entropy = 0.241815
+2016-09-17 20:50:00.185744: Step 1840: Validation accuracy = 71.0%
+2016-09-17 20:50:01.965238: Step 1850: Train accuracy = 99.0%
+2016-09-17 20:50:01.965366: Step 1850: Cross entropy = 0.193713
+2016-09-17 20:50:02.136785: Step 1850: Validation accuracy = 73.0%
+2016-09-17 20:50:03.912871: Step 1860: Train accuracy = 98.0%
+2016-09-17 20:50:03.912998: Step 1860: Cross entropy = 0.211669
+2016-09-17 20:50:04.086321: Step 1860: Validation accuracy = 60.0%
+2016-09-17 20:50:05.863998: Step 1870: Train accuracy = 96.0%
+2016-09-17 20:50:05.864121: Step 1870: Cross entropy = 0.201027
+2016-09-17 20:50:06.036399: Step 1870: Validation accuracy = 58.0%
+2016-09-17 20:50:07.815566: Step 1880: Train accuracy = 98.0%
+2016-09-17 20:50:07.815692: Step 1880: Cross entropy = 0.204747
+2016-09-17 20:50:07.986145: Step 1880: Validation accuracy = 61.0%
+2016-09-17 20:50:09.765679: Step 1890: Train accuracy = 97.0%
+2016-09-17 20:50:09.765802: Step 1890: Cross entropy = 0.232658
+2016-09-17 20:50:09.935688: Step 1890: Validation accuracy = 62.0%
+2016-09-17 20:50:11.720142: Step 1900: Train accuracy = 93.0%
+2016-09-17 20:50:11.720266: Step 1900: Cross entropy = 0.309858
+2016-09-17 20:50:11.890567: Step 1900: Validation accuracy = 68.0%
+2016-09-17 20:50:13.675254: Step 1910: Train accuracy = 99.0%
+2016-09-17 20:50:13.675377: Step 1910: Cross entropy = 0.216117
+2016-09-17 20:50:13.846303: Step 1910: Validation accuracy = 59.0%
+2016-09-17 20:50:15.621654: Step 1920: Train accuracy = 98.0%
+2016-09-17 20:50:15.621777: Step 1920: Cross entropy = 0.210289
+2016-09-17 20:50:15.792882: Step 1920: Validation accuracy = 63.0%
+2016-09-17 20:50:17.569422: Step 1930: Train accuracy = 96.0%
+2016-09-17 20:50:17.569550: Step 1930: Cross entropy = 0.237673
+2016-09-17 20:50:17.741756: Step 1930: Validation accuracy = 72.0%
+2016-09-17 20:50:19.516208: Step 1940: Train accuracy = 97.0%
+2016-09-17 20:50:19.516332: Step 1940: Cross entropy = 0.234330
+2016-09-17 20:50:19.689941: Step 1940: Validation accuracy = 72.0%
+2016-09-17 20:50:21.488746: Step 1950: Train accuracy = 96.0%
+2016-09-17 20:50:21.488870: Step 1950: Cross entropy = 0.247529
+2016-09-17 20:50:21.665231: Step 1950: Validation accuracy = 67.0%
+2016-09-17 20:50:23.466008: Step 1960: Train accuracy = 95.0%
+2016-09-17 20:50:23.466134: Step 1960: Cross entropy = 0.218679
+2016-09-17 20:50:23.642123: Step 1960: Validation accuracy = 66.0%
+2016-09-17 20:50:25.445744: Step 1970: Train accuracy = 99.0%
+2016-09-17 20:50:25.445868: Step 1970: Cross entropy = 0.202768
+2016-09-17 20:50:25.622791: Step 1970: Validation accuracy = 64.0%
+2016-09-17 20:50:27.448419: Step 1980: Train accuracy = 96.0%
+2016-09-17 20:50:27.448549: Step 1980: Cross entropy = 0.247843
+2016-09-17 20:50:27.630333: Step 1980: Validation accuracy = 63.0%
+2016-09-17 20:50:29.541076: Step 1990: Train accuracy = 99.0%
+2016-09-17 20:50:29.541298: Step 1990: Cross entropy = 0.200680
+2016-09-17 20:50:29.733445: Step 1990: Validation accuracy = 70.0%
+2016-09-17 20:50:31.563858: Step 2000: Train accuracy = 97.0%
+2016-09-17 20:50:31.563982: Step 2000: Cross entropy = 0.218646
+2016-09-17 20:50:31.739238: Step 2000: Validation accuracy = 65.0%
+2016-09-17 20:50:33.561476: Step 2010: Train accuracy = 97.0%
+2016-09-17 20:50:33.561601: Step 2010: Cross entropy = 0.251390
+2016-09-17 20:50:33.734751: Step 2010: Validation accuracy = 67.0%
+2016-09-17 20:50:35.566909: Step 2020: Train accuracy = 98.0%
+2016-09-17 20:50:35.567037: Step 2020: Cross entropy = 0.248806
+2016-09-17 20:50:35.749082: Step 2020: Validation accuracy = 66.0%
+2016-09-17 20:50:37.564190: Step 2030: Train accuracy = 97.0%
+2016-09-17 20:50:37.564314: Step 2030: Cross entropy = 0.229978
+2016-09-17 20:50:37.738030: Step 2030: Validation accuracy = 66.0%
+2016-09-17 20:50:39.544148: Step 2040: Train accuracy = 96.0%
+2016-09-17 20:50:39.544278: Step 2040: Cross entropy = 0.225327
+2016-09-17 20:50:39.718099: Step 2040: Validation accuracy = 65.0%
+2016-09-17 20:50:41.517801: Step 2050: Train accuracy = 98.0%
+2016-09-17 20:50:41.517927: Step 2050: Cross entropy = 0.214051
+2016-09-17 20:50:41.693917: Step 2050: Validation accuracy = 71.0%
+2016-09-17 20:50:43.486151: Step 2060: Train accuracy = 97.0%
+2016-09-17 20:50:43.486276: Step 2060: Cross entropy = 0.215066
+2016-09-17 20:50:43.663606: Step 2060: Validation accuracy = 66.0%
+2016-09-17 20:50:45.453682: Step 2070: Train accuracy = 97.0%
+2016-09-17 20:50:45.453805: Step 2070: Cross entropy = 0.235176
+2016-09-17 20:50:45.629942: Step 2070: Validation accuracy = 60.0%
+2016-09-17 20:50:47.424550: Step 2080: Train accuracy = 97.0%
+2016-09-17 20:50:47.424673: Step 2080: Cross entropy = 0.243077
+2016-09-17 20:50:47.600814: Step 2080: Validation accuracy = 63.0%
+2016-09-17 20:50:49.388434: Step 2090: Train accuracy = 100.0%
+2016-09-17 20:50:49.388556: Step 2090: Cross entropy = 0.179860
+2016-09-17 20:50:49.565086: Step 2090: Validation accuracy = 74.0%
+2016-09-17 20:50:51.359238: Step 2100: Train accuracy = 96.0%
+2016-09-17 20:50:51.359364: Step 2100: Cross entropy = 0.241690
+2016-09-17 20:50:51.533285: Step 2100: Validation accuracy = 71.0%
+2016-09-17 20:50:53.324230: Step 2110: Train accuracy = 95.0%
+2016-09-17 20:50:53.324426: Step 2110: Cross entropy = 0.243851
+2016-09-17 20:50:53.497861: Step 2110: Validation accuracy = 60.0%
+2016-09-17 20:50:55.295764: Step 2120: Train accuracy = 99.0%
+2016-09-17 20:50:55.295889: Step 2120: Cross entropy = 0.191552
+2016-09-17 20:50:55.471107: Step 2120: Validation accuracy = 66.0%
+2016-09-17 20:50:57.273247: Step 2130: Train accuracy = 95.0%
+2016-09-17 20:50:57.273372: Step 2130: Cross entropy = 0.204475
+2016-09-17 20:50:57.447131: Step 2130: Validation accuracy = 74.0%
+2016-09-17 20:50:59.238988: Step 2140: Train accuracy = 98.0%
+2016-09-17 20:50:59.239152: Step 2140: Cross entropy = 0.181279
+2016-09-17 20:50:59.413065: Step 2140: Validation accuracy = 72.0%
+2016-09-17 20:51:01.217363: Step 2150: Train accuracy = 97.0%
+2016-09-17 20:51:01.217516: Step 2150: Cross entropy = 0.213527
+2016-09-17 20:51:01.392649: Step 2150: Validation accuracy = 66.0%
+2016-09-17 20:51:03.191155: Step 2160: Train accuracy = 97.0%
+2016-09-17 20:51:03.191277: Step 2160: Cross entropy = 0.248504
+2016-09-17 20:51:03.370235: Step 2160: Validation accuracy = 68.0%
+2016-09-17 20:51:05.163380: Step 2170: Train accuracy = 97.0%
+2016-09-17 20:51:05.163511: Step 2170: Cross entropy = 0.194093
+2016-09-17 20:51:05.340063: Step 2170: Validation accuracy = 63.0%
+2016-09-17 20:51:07.129897: Step 2180: Train accuracy = 93.0%
+2016-09-17 20:51:07.130020: Step 2180: Cross entropy = 0.278002
+2016-09-17 20:51:07.306241: Step 2180: Validation accuracy = 76.0%
+2016-09-17 20:51:09.094151: Step 2190: Train accuracy = 98.0%
+2016-09-17 20:51:09.094277: Step 2190: Cross entropy = 0.209208
+2016-09-17 20:51:09.270594: Step 2190: Validation accuracy = 65.0%
+2016-09-17 20:51:11.064141: Step 2200: Train accuracy = 98.0%
+2016-09-17 20:51:11.064265: Step 2200: Cross entropy = 0.220966
+2016-09-17 20:51:11.252990: Step 2200: Validation accuracy = 71.0%
+2016-09-17 20:51:13.062184: Step 2210: Train accuracy = 97.0%
+2016-09-17 20:51:13.062308: Step 2210: Cross entropy = 0.203165
+2016-09-17 20:51:13.236785: Step 2210: Validation accuracy = 60.0%
+2016-09-17 20:51:15.048751: Step 2220: Train accuracy = 96.0%
+2016-09-17 20:51:15.048907: Step 2220: Cross entropy = 0.221043
+2016-09-17 20:51:15.223843: Step 2220: Validation accuracy = 76.0%
+2016-09-17 20:51:17.036833: Step 2230: Train accuracy = 98.0%
+2016-09-17 20:51:17.036984: Step 2230: Cross entropy = 0.212234
+2016-09-17 20:51:17.213628: Step 2230: Validation accuracy = 71.0%
+2016-09-17 20:51:19.020686: Step 2240: Train accuracy = 98.0%
+2016-09-17 20:51:19.020814: Step 2240: Cross entropy = 0.216152
+2016-09-17 20:51:19.193557: Step 2240: Validation accuracy = 60.0%
+2016-09-17 20:51:21.000974: Step 2250: Train accuracy = 98.0%
+2016-09-17 20:51:21.001099: Step 2250: Cross entropy = 0.196600
+2016-09-17 20:51:21.174463: Step 2250: Validation accuracy = 65.0%
+2016-09-17 20:51:22.977616: Step 2260: Train accuracy = 98.0%
+2016-09-17 20:51:22.977747: Step 2260: Cross entropy = 0.209707
+2016-09-17 20:51:23.151153: Step 2260: Validation accuracy = 71.0%
+2016-09-17 20:51:24.946039: Step 2270: Train accuracy = 99.0%
+2016-09-17 20:51:24.946167: Step 2270: Cross entropy = 0.167716
+2016-09-17 20:51:25.118966: Step 2270: Validation accuracy = 63.0%
+2016-09-17 20:51:26.912247: Step 2280: Train accuracy = 96.0%
+2016-09-17 20:51:26.912372: Step 2280: Cross entropy = 0.175837
+2016-09-17 20:51:27.084888: Step 2280: Validation accuracy = 67.0%
+2016-09-17 20:51:28.877274: Step 2290: Train accuracy = 97.0%
+2016-09-17 20:51:28.877400: Step 2290: Cross entropy = 0.209313
+2016-09-17 20:51:29.051585: Step 2290: Validation accuracy = 55.0%
+2016-09-17 20:51:30.849742: Step 2300: Train accuracy = 93.0%
+2016-09-17 20:51:30.849869: Step 2300: Cross entropy = 0.245199
+2016-09-17 20:51:31.024022: Step 2300: Validation accuracy = 62.0%
+2016-09-17 20:51:32.823599: Step 2310: Train accuracy = 98.0%
+2016-09-17 20:51:32.823776: Step 2310: Cross entropy = 0.186701
+2016-09-17 20:51:32.998200: Step 2310: Validation accuracy = 60.0%
+2016-09-17 20:51:34.787568: Step 2320: Train accuracy = 96.0%
+2016-09-17 20:51:34.787696: Step 2320: Cross entropy = 0.221192
+2016-09-17 20:51:34.961496: Step 2320: Validation accuracy = 71.0%
+2016-09-17 20:51:36.753858: Step 2330: Train accuracy = 96.0%
+2016-09-17 20:51:36.753983: Step 2330: Cross entropy = 0.229820
+2016-09-17 20:51:36.927218: Step 2330: Validation accuracy = 68.0%
+2016-09-17 20:51:38.714419: Step 2340: Train accuracy = 99.0%
+2016-09-17 20:51:38.714543: Step 2340: Cross entropy = 0.214013
+2016-09-17 20:51:38.889740: Step 2340: Validation accuracy = 63.0%
+2016-09-17 20:51:40.670235: Step 2350: Train accuracy = 98.0%
+2016-09-17 20:51:40.670358: Step 2350: Cross entropy = 0.238002
+2016-09-17 20:51:40.842313: Step 2350: Validation accuracy = 66.0%
+2016-09-17 20:51:42.623878: Step 2360: Train accuracy = 99.0%
+2016-09-17 20:51:42.624040: Step 2360: Cross entropy = 0.170733
+2016-09-17 20:51:42.796823: Step 2360: Validation accuracy = 60.0%
+2016-09-17 20:51:44.576408: Step 2370: Train accuracy = 99.0%
+2016-09-17 20:51:44.576534: Step 2370: Cross entropy = 0.172227
+2016-09-17 20:51:44.747399: Step 2370: Validation accuracy = 66.0%
+2016-09-17 20:51:46.534392: Step 2380: Train accuracy = 97.0%
+2016-09-17 20:51:46.534521: Step 2380: Cross entropy = 0.207825
+2016-09-17 20:51:46.706711: Step 2380: Validation accuracy = 65.0%
+2016-09-17 20:51:48.464413: Step 2390: Train accuracy = 98.0%
+2016-09-17 20:51:48.464537: Step 2390: Cross entropy = 0.195880
+2016-09-17 20:51:48.640835: Step 2390: Validation accuracy = 71.0%
+2016-09-17 20:51:50.419248: Step 2400: Train accuracy = 98.0%
+2016-09-17 20:51:50.419377: Step 2400: Cross entropy = 0.205736
+2016-09-17 20:51:50.593650: Step 2400: Validation accuracy = 61.0%
+2016-09-17 20:51:52.365990: Step 2410: Train accuracy = 99.0%
+2016-09-17 20:51:52.366115: Step 2410: Cross entropy = 0.145821
+2016-09-17 20:51:52.538207: Step 2410: Validation accuracy = 62.0%
+2016-09-17 20:51:54.350530: Step 2420: Train accuracy = 95.0%
+2016-09-17 20:51:54.350660: Step 2420: Cross entropy = 0.273122
+2016-09-17 20:51:54.549931: Step 2420: Validation accuracy = 78.0%
+2016-09-17 20:51:56.388825: Step 2430: Train accuracy = 96.0%
+2016-09-17 20:51:56.388951: Step 2430: Cross entropy = 0.198661
+2016-09-17 20:51:56.562437: Step 2430: Validation accuracy = 74.0%
+2016-09-17 20:51:58.384120: Step 2440: Train accuracy = 99.0%
+2016-09-17 20:51:58.384251: Step 2440: Cross entropy = 0.183125
+2016-09-17 20:51:58.558821: Step 2440: Validation accuracy = 64.0%
+2016-09-17 20:52:00.402741: Step 2450: Train accuracy = 96.0%
+2016-09-17 20:52:00.402867: Step 2450: Cross entropy = 0.217965
+2016-09-17 20:52:00.578678: Step 2450: Validation accuracy = 62.0%
+2016-09-17 20:52:02.377201: Step 2460: Train accuracy = 99.0%
+2016-09-17 20:52:02.377325: Step 2460: Cross entropy = 0.185799
+2016-09-17 20:52:02.551055: Step 2460: Validation accuracy = 68.0%
+2016-09-17 20:52:04.359324: Step 2470: Train accuracy = 96.0%
+2016-09-17 20:52:04.359449: Step 2470: Cross entropy = 0.214481
+2016-09-17 20:52:04.532048: Step 2470: Validation accuracy = 63.0%
+2016-09-17 20:52:06.322889: Step 2480: Train accuracy = 98.0%
+2016-09-17 20:52:06.323014: Step 2480: Cross entropy = 0.181053
+2016-09-17 20:52:06.493903: Step 2480: Validation accuracy = 64.0%
+2016-09-17 20:52:08.279320: Step 2490: Train accuracy = 95.0%
+2016-09-17 20:52:08.279444: Step 2490: Cross entropy = 0.193172
+2016-09-17 20:52:08.453850: Step 2490: Validation accuracy = 70.0%
+2016-09-17 20:52:10.235925: Step 2500: Train accuracy = 98.0%
+2016-09-17 20:52:10.236047: Step 2500: Cross entropy = 0.221854
+2016-09-17 20:52:10.412954: Step 2500: Validation accuracy = 72.0%
+2016-09-17 20:52:12.196885: Step 2510: Train accuracy = 99.0%
+2016-09-17 20:52:12.197009: Step 2510: Cross entropy = 0.174467
+2016-09-17 20:52:12.368971: Step 2510: Validation accuracy = 65.0%
+2016-09-17 20:52:14.155998: Step 2520: Train accuracy = 97.0%
+2016-09-17 20:52:14.156122: Step 2520: Cross entropy = 0.182838
+2016-09-17 20:52:14.330231: Step 2520: Validation accuracy = 74.0%
+2016-09-17 20:52:16.124712: Step 2530: Train accuracy = 98.0%
+2016-09-17 20:52:16.124834: Step 2530: Cross entropy = 0.171921
+2016-09-17 20:52:16.298902: Step 2530: Validation accuracy = 62.0%
+2016-09-17 20:52:18.070189: Step 2540: Train accuracy = 95.0%
+2016-09-17 20:52:18.070341: Step 2540: Cross entropy = 0.280123
+2016-09-17 20:52:18.243020: Step 2540: Validation accuracy = 61.0%
+2016-09-17 20:52:20.019043: Step 2550: Train accuracy = 100.0%
+2016-09-17 20:52:20.019165: Step 2550: Cross entropy = 0.187864
+2016-09-17 20:52:20.194376: Step 2550: Validation accuracy = 64.0%
+2016-09-17 20:52:21.986124: Step 2560: Train accuracy = 97.0%
+2016-09-17 20:52:21.986249: Step 2560: Cross entropy = 0.185945
+2016-09-17 20:52:22.160968: Step 2560: Validation accuracy = 57.0%
+2016-09-17 20:52:23.966303: Step 2570: Train accuracy = 96.0%
+2016-09-17 20:52:23.966430: Step 2570: Cross entropy = 0.211321
+2016-09-17 20:52:24.141693: Step 2570: Validation accuracy = 69.0%
+2016-09-17 20:52:25.940988: Step 2580: Train accuracy = 99.0%
+2016-09-17 20:52:25.941114: Step 2580: Cross entropy = 0.157592
+2016-09-17 20:52:26.115490: Step 2580: Validation accuracy = 71.0%
+2016-09-17 20:52:27.909066: Step 2590: Train accuracy = 98.0%
+2016-09-17 20:52:27.909227: Step 2590: Cross entropy = 0.192703
+2016-09-17 20:52:28.082939: Step 2590: Validation accuracy = 69.0%
+2016-09-17 20:52:29.877299: Step 2600: Train accuracy = 99.0%
+2016-09-17 20:52:29.877421: Step 2600: Cross entropy = 0.165815
+2016-09-17 20:52:30.050358: Step 2600: Validation accuracy = 69.0%
+2016-09-17 20:52:31.837232: Step 2610: Train accuracy = 99.0%
+2016-09-17 20:52:31.837355: Step 2610: Cross entropy = 0.159948
+2016-09-17 20:52:32.008999: Step 2610: Validation accuracy = 66.0%
+2016-09-17 20:52:33.793605: Step 2620: Train accuracy = 99.0%
+2016-09-17 20:52:33.793759: Step 2620: Cross entropy = 0.201467
+2016-09-17 20:52:33.966573: Step 2620: Validation accuracy = 75.0%
+2016-09-17 20:52:35.800301: Step 2630: Train accuracy = 96.0%
+2016-09-17 20:52:35.800465: Step 2630: Cross entropy = 0.182269
+2016-09-17 20:52:35.975415: Step 2630: Validation accuracy = 70.0%
+2016-09-17 20:52:37.798666: Step 2640: Train accuracy = 98.0%
+2016-09-17 20:52:37.798791: Step 2640: Cross entropy = 0.163696
+2016-09-17 20:52:37.971538: Step 2640: Validation accuracy = 62.0%
+2016-09-17 20:52:39.802329: Step 2650: Train accuracy = 98.0%
+2016-09-17 20:52:39.802455: Step 2650: Cross entropy = 0.162473
+2016-09-17 20:52:39.976045: Step 2650: Validation accuracy = 67.0%
+2016-09-17 20:52:41.791766: Step 2660: Train accuracy = 98.0%
+2016-09-17 20:52:41.791891: Step 2660: Cross entropy = 0.194378
+2016-09-17 20:52:41.979264: Step 2660: Validation accuracy = 69.0%
+2016-09-17 20:52:43.783548: Step 2670: Train accuracy = 97.0%
+2016-09-17 20:52:43.783672: Step 2670: Cross entropy = 0.184442
+2016-09-17 20:52:43.956522: Step 2670: Validation accuracy = 66.0%
+2016-09-17 20:52:45.745455: Step 2680: Train accuracy = 98.0%
+2016-09-17 20:52:45.745577: Step 2680: Cross entropy = 0.175308
+2016-09-17 20:52:45.917596: Step 2680: Validation accuracy = 70.0%
+2016-09-17 20:52:47.711768: Step 2690: Train accuracy = 98.0%
+2016-09-17 20:52:47.711894: Step 2690: Cross entropy = 0.161513
+2016-09-17 20:52:47.885822: Step 2690: Validation accuracy = 69.0%
+2016-09-17 20:52:49.682661: Step 2700: Train accuracy = 96.0%
+2016-09-17 20:52:49.682786: Step 2700: Cross entropy = 0.180585
+2016-09-17 20:52:49.857585: Step 2700: Validation accuracy = 72.0%
+2016-09-17 20:52:51.648240: Step 2710: Train accuracy = 96.0%
+2016-09-17 20:52:51.648366: Step 2710: Cross entropy = 0.161232
+2016-09-17 20:52:51.821159: Step 2710: Validation accuracy = 74.0%
+2016-09-17 20:52:53.623113: Step 2720: Train accuracy = 98.0%
+2016-09-17 20:52:53.623242: Step 2720: Cross entropy = 0.160562
+2016-09-17 20:52:53.803552: Step 2720: Validation accuracy = 64.0%
+2016-09-17 20:52:55.612935: Step 2730: Train accuracy = 96.0%
+2016-09-17 20:52:55.613062: Step 2730: Cross entropy = 0.179309
+2016-09-17 20:52:55.787787: Step 2730: Validation accuracy = 64.0%
+2016-09-17 20:52:57.578882: Step 2740: Train accuracy = 96.0%
+2016-09-17 20:52:57.579044: Step 2740: Cross entropy = 0.137626
+2016-09-17 20:52:57.751678: Step 2740: Validation accuracy = 73.0%
+2016-09-17 20:52:59.542140: Step 2750: Train accuracy = 96.0%
+2016-09-17 20:52:59.542270: Step 2750: Cross entropy = 0.187459
+2016-09-17 20:52:59.716329: Step 2750: Validation accuracy = 68.0%
+2016-09-17 20:53:01.535186: Step 2760: Train accuracy = 98.0%
+2016-09-17 20:53:01.535312: Step 2760: Cross entropy = 0.166997
+2016-09-17 20:53:01.712691: Step 2760: Validation accuracy = 76.0%
+2016-09-17 20:53:03.514968: Step 2770: Train accuracy = 99.0%
+2016-09-17 20:53:03.515098: Step 2770: Cross entropy = 0.178706
+2016-09-17 20:53:03.689183: Step 2770: Validation accuracy = 68.0%
+2016-09-17 20:53:05.481084: Step 2780: Train accuracy = 100.0%
+2016-09-17 20:53:05.481210: Step 2780: Cross entropy = 0.146763
+2016-09-17 20:53:05.657148: Step 2780: Validation accuracy = 70.0%
+2016-09-17 20:53:07.437572: Step 2790: Train accuracy = 99.0%
+2016-09-17 20:53:07.437696: Step 2790: Cross entropy = 0.183418
+2016-09-17 20:53:07.610228: Step 2790: Validation accuracy = 69.0%
+2016-09-17 20:53:09.396672: Step 2800: Train accuracy = 99.0%
+2016-09-17 20:53:09.396823: Step 2800: Cross entropy = 0.185948
+2016-09-17 20:53:09.571409: Step 2800: Validation accuracy = 61.0%
+2016-09-17 20:53:11.348027: Step 2810: Train accuracy = 98.0%
+2016-09-17 20:53:11.348150: Step 2810: Cross entropy = 0.162056
+2016-09-17 20:53:11.519803: Step 2810: Validation accuracy = 64.0%
+2016-09-17 20:53:13.300245: Step 2820: Train accuracy = 100.0%
+2016-09-17 20:53:13.300370: Step 2820: Cross entropy = 0.146310
+2016-09-17 20:53:13.473082: Step 2820: Validation accuracy = 69.0%
+2016-09-17 20:53:15.275771: Step 2830: Train accuracy = 98.0%
+2016-09-17 20:53:15.275892: Step 2830: Cross entropy = 0.187789
+2016-09-17 20:53:15.449510: Step 2830: Validation accuracy = 74.0%
+2016-09-17 20:53:17.241333: Step 2840: Train accuracy = 100.0%
+2016-09-17 20:53:17.241494: Step 2840: Cross entropy = 0.163771
+2016-09-17 20:53:17.436204: Step 2840: Validation accuracy = 63.0%
+2016-09-17 20:53:19.230895: Step 2850: Train accuracy = 100.0%
+2016-09-17 20:53:19.231021: Step 2850: Cross entropy = 0.114188
+2016-09-17 20:53:19.406558: Step 2850: Validation accuracy = 71.0%
+2016-09-17 20:53:21.218174: Step 2860: Train accuracy = 99.0%
+2016-09-17 20:53:21.218297: Step 2860: Cross entropy = 0.204879
+2016-09-17 20:53:21.394460: Step 2860: Validation accuracy = 68.0%
+2016-09-17 20:53:23.197047: Step 2870: Train accuracy = 95.0%
+2016-09-17 20:53:23.197202: Step 2870: Cross entropy = 0.240535
+2016-09-17 20:53:23.379794: Step 2870: Validation accuracy = 67.0%
+2016-09-17 20:53:25.177598: Step 2880: Train accuracy = 99.0%
+2016-09-17 20:53:25.177723: Step 2880: Cross entropy = 0.176136
+2016-09-17 20:53:25.351258: Step 2880: Validation accuracy = 72.0%
+2016-09-17 20:53:27.154126: Step 2890: Train accuracy = 100.0%
+2016-09-17 20:53:27.154250: Step 2890: Cross entropy = 0.149344
+2016-09-17 20:53:27.328516: Step 2890: Validation accuracy = 66.0%
+2016-09-17 20:53:29.119625: Step 2900: Train accuracy = 99.0%
+2016-09-17 20:53:29.119748: Step 2900: Cross entropy = 0.180674
+2016-09-17 20:53:29.295331: Step 2900: Validation accuracy = 73.0%
+2016-09-17 20:53:31.077899: Step 2910: Train accuracy = 96.0%
+2016-09-17 20:53:31.078023: Step 2910: Cross entropy = 0.173021
+2016-09-17 20:53:31.251173: Step 2910: Validation accuracy = 62.0%
+2016-09-17 20:53:33.034593: Step 2920: Train accuracy = 99.0%
+2016-09-17 20:53:33.034718: Step 2920: Cross entropy = 0.152290
+2016-09-17 20:53:33.206941: Step 2920: Validation accuracy = 68.0%
+2016-09-17 20:53:34.985221: Step 2930: Train accuracy = 99.0%
+2016-09-17 20:53:34.985376: Step 2930: Cross entropy = 0.184559
+2016-09-17 20:53:35.155432: Step 2930: Validation accuracy = 68.0%
+2016-09-17 20:53:36.935629: Step 2940: Train accuracy = 96.0%
+2016-09-17 20:53:36.935754: Step 2940: Cross entropy = 0.183461
+2016-09-17 20:53:37.107853: Step 2940: Validation accuracy = 73.0%
+2016-09-17 20:53:38.894625: Step 2950: Train accuracy = 97.0%
+2016-09-17 20:53:38.894752: Step 2950: Cross entropy = 0.184593
+2016-09-17 20:53:39.065568: Step 2950: Validation accuracy = 75.0%
+2016-09-17 20:53:40.848220: Step 2960: Train accuracy = 100.0%
+2016-09-17 20:53:40.848350: Step 2960: Cross entropy = 0.151349
+2016-09-17 20:53:41.019718: Step 2960: Validation accuracy = 74.0%
+2016-09-17 20:53:42.799025: Step 2970: Train accuracy = 96.0%
+2016-09-17 20:53:42.799152: Step 2970: Cross entropy = 0.207894
+2016-09-17 20:53:42.971543: Step 2970: Validation accuracy = 69.0%
+2016-09-17 20:53:44.761075: Step 2980: Train accuracy = 98.0%
+2016-09-17 20:53:44.761201: Step 2980: Cross entropy = 0.182419
+2016-09-17 20:53:44.933569: Step 2980: Validation accuracy = 70.0%
+2016-09-17 20:53:46.716969: Step 2990: Train accuracy = 98.0%
+2016-09-17 20:53:46.717093: Step 2990: Cross entropy = 0.149833
+2016-09-17 20:53:46.889682: Step 2990: Validation accuracy = 68.0%
+2016-09-17 20:53:48.673392: Step 3000: Train accuracy = 96.0%
+2016-09-17 20:53:48.673516: Step 3000: Cross entropy = 0.202760
+2016-09-17 20:53:48.845967: Step 3000: Validation accuracy = 70.0%
+2016-09-17 20:53:50.633801: Step 3010: Train accuracy = 100.0%
+2016-09-17 20:53:50.633928: Step 3010: Cross entropy = 0.159747
+2016-09-17 20:53:50.806612: Step 3010: Validation accuracy = 66.0%
+2016-09-17 20:53:52.596860: Step 3020: Train accuracy = 99.0%
+2016-09-17 20:53:52.596984: Step 3020: Cross entropy = 0.136413
+2016-09-17 20:53:52.769751: Step 3020: Validation accuracy = 66.0%
+2016-09-17 20:53:54.561010: Step 3030: Train accuracy = 97.0%
+2016-09-17 20:53:54.561133: Step 3030: Cross entropy = 0.182088
+2016-09-17 20:53:54.733475: Step 3030: Validation accuracy = 77.0%
+2016-09-17 20:53:56.509773: Step 3040: Train accuracy = 98.0%
+2016-09-17 20:53:56.509896: Step 3040: Cross entropy = 0.186824
+2016-09-17 20:53:56.685509: Step 3040: Validation accuracy = 58.0%
+2016-09-17 20:53:58.467856: Step 3050: Train accuracy = 96.0%
+2016-09-17 20:53:58.467980: Step 3050: Cross entropy = 0.188832
+2016-09-17 20:53:58.671519: Step 3050: Validation accuracy = 65.0%
+2016-09-17 20:54:00.492593: Step 3060: Train accuracy = 95.0%
+2016-09-17 20:54:00.492721: Step 3060: Cross entropy = 0.216265
+2016-09-17 20:54:00.666089: Step 3060: Validation accuracy = 61.0%
+2016-09-17 20:54:02.487730: Step 3070: Train accuracy = 97.0%
+2016-09-17 20:54:02.487853: Step 3070: Cross entropy = 0.194460
+2016-09-17 20:54:02.664604: Step 3070: Validation accuracy = 62.0%
+2016-09-17 20:54:04.487725: Step 3080: Train accuracy = 96.0%
+2016-09-17 20:54:04.487850: Step 3080: Cross entropy = 0.179552
+2016-09-17 20:54:04.671610: Step 3080: Validation accuracy = 72.0%
+2016-09-17 20:54:06.469594: Step 3090: Train accuracy = 99.0%
+2016-09-17 20:54:06.469717: Step 3090: Cross entropy = 0.161936
+2016-09-17 20:54:06.643120: Step 3090: Validation accuracy = 69.0%
+2016-09-17 20:54:08.430622: Step 3100: Train accuracy = 98.0%
+2016-09-17 20:54:08.430746: Step 3100: Cross entropy = 0.159864
+2016-09-17 20:54:08.606370: Step 3100: Validation accuracy = 67.0%
+2016-09-17 20:54:10.388427: Step 3110: Train accuracy = 99.0%
+2016-09-17 20:54:10.388549: Step 3110: Cross entropy = 0.153296
+2016-09-17 20:54:10.561107: Step 3110: Validation accuracy = 71.0%
+2016-09-17 20:54:12.340620: Step 3120: Train accuracy = 97.0%
+2016-09-17 20:54:12.340746: Step 3120: Cross entropy = 0.186931
+2016-09-17 20:54:12.513542: Step 3120: Validation accuracy = 72.0%
+2016-09-17 20:54:14.304202: Step 3130: Train accuracy = 98.0%
+2016-09-17 20:54:14.304327: Step 3130: Cross entropy = 0.184347
+2016-09-17 20:54:14.477844: Step 3130: Validation accuracy = 66.0%
+2016-09-17 20:54:16.272094: Step 3140: Train accuracy = 99.0%
+2016-09-17 20:54:16.272219: Step 3140: Cross entropy = 0.149388
+2016-09-17 20:54:16.445094: Step 3140: Validation accuracy = 63.0%
+2016-09-17 20:54:18.229816: Step 3150: Train accuracy = 100.0%
+2016-09-17 20:54:18.229942: Step 3150: Cross entropy = 0.132187
+2016-09-17 20:54:18.404753: Step 3150: Validation accuracy = 65.0%
+2016-09-17 20:54:20.189365: Step 3160: Train accuracy = 97.0%
+2016-09-17 20:54:20.189490: Step 3160: Cross entropy = 0.222540
+2016-09-17 20:54:20.366161: Step 3160: Validation accuracy = 63.0%
+2016-09-17 20:54:22.163472: Step 3170: Train accuracy = 100.0%
+2016-09-17 20:54:22.163625: Step 3170: Cross entropy = 0.147550
+2016-09-17 20:54:22.337683: Step 3170: Validation accuracy = 73.0%
+2016-09-17 20:54:24.117281: Step 3180: Train accuracy = 100.0%
+2016-09-17 20:54:24.117404: Step 3180: Cross entropy = 0.149191
+2016-09-17 20:54:24.292149: Step 3180: Validation accuracy = 67.0%
+2016-09-17 20:54:26.072106: Step 3190: Train accuracy = 96.0%
+2016-09-17 20:54:26.072234: Step 3190: Cross entropy = 0.184207
+2016-09-17 20:54:26.244158: Step 3190: Validation accuracy = 60.0%
+2016-09-17 20:54:28.029893: Step 3200: Train accuracy = 99.0%
+2016-09-17 20:54:28.030016: Step 3200: Cross entropy = 0.145525
+2016-09-17 20:54:28.202964: Step 3200: Validation accuracy = 71.0%
+2016-09-17 20:54:29.990042: Step 3210: Train accuracy = 99.0%
+2016-09-17 20:54:29.990165: Step 3210: Cross entropy = 0.150360
+2016-09-17 20:54:30.163856: Step 3210: Validation accuracy = 69.0%
+2016-09-17 20:54:31.960017: Step 3220: Train accuracy = 99.0%
+2016-09-17 20:54:31.960141: Step 3220: Cross entropy = 0.162718
+2016-09-17 20:54:32.132980: Step 3220: Validation accuracy = 70.0%
+2016-09-17 20:54:33.926756: Step 3230: Train accuracy = 98.0%
+2016-09-17 20:54:33.926879: Step 3230: Cross entropy = 0.190263
+2016-09-17 20:54:34.101641: Step 3230: Validation accuracy = 59.0%
+2016-09-17 20:54:35.890184: Step 3240: Train accuracy = 98.0%
+2016-09-17 20:54:35.890309: Step 3240: Cross entropy = 0.147324
+2016-09-17 20:54:36.063071: Step 3240: Validation accuracy = 74.0%
+2016-09-17 20:54:37.860965: Step 3250: Train accuracy = 98.0%
+2016-09-17 20:54:37.861092: Step 3250: Cross entropy = 0.181830
+2016-09-17 20:54:38.035104: Step 3250: Validation accuracy = 73.0%
+2016-09-17 20:54:39.829966: Step 3260: Train accuracy = 100.0%
+2016-09-17 20:54:39.830090: Step 3260: Cross entropy = 0.152651
+2016-09-17 20:54:40.019548: Step 3260: Validation accuracy = 71.0%
+2016-09-17 20:54:41.831614: Step 3270: Train accuracy = 99.0%
+2016-09-17 20:54:41.831745: Step 3270: Cross entropy = 0.123309
+2016-09-17 20:54:42.005668: Step 3270: Validation accuracy = 66.0%
+2016-09-17 20:54:43.821714: Step 3280: Train accuracy = 99.0%
+2016-09-17 20:54:43.821878: Step 3280: Cross entropy = 0.155392
+2016-09-17 20:54:43.994718: Step 3280: Validation accuracy = 68.0%
+2016-09-17 20:54:45.797560: Step 3290: Train accuracy = 100.0%
+2016-09-17 20:54:45.797728: Step 3290: Cross entropy = 0.140134
+2016-09-17 20:54:45.973264: Step 3290: Validation accuracy = 72.0%
+2016-09-17 20:54:47.783162: Step 3300: Train accuracy = 99.0%
+2016-09-17 20:54:47.783288: Step 3300: Cross entropy = 0.159550
+2016-09-17 20:54:47.959191: Step 3300: Validation accuracy = 78.0%
+2016-09-17 20:54:49.762354: Step 3310: Train accuracy = 99.0%
+2016-09-17 20:54:49.762510: Step 3310: Cross entropy = 0.163280
+2016-09-17 20:54:49.934000: Step 3310: Validation accuracy = 65.0%
+2016-09-17 20:54:51.736044: Step 3320: Train accuracy = 100.0%
+2016-09-17 20:54:51.736170: Step 3320: Cross entropy = 0.146440
+2016-09-17 20:54:51.908011: Step 3320: Validation accuracy = 66.0%
+2016-09-17 20:54:53.743355: Step 3330: Train accuracy = 99.0%
+2016-09-17 20:54:53.743484: Step 3330: Cross entropy = 0.151287
+2016-09-17 20:54:53.933591: Step 3330: Validation accuracy = 70.0%
+2016-09-17 20:54:55.777855: Step 3340: Train accuracy = 98.0%
+2016-09-17 20:54:55.777982: Step 3340: Cross entropy = 0.129871
+2016-09-17 20:54:55.949329: Step 3340: Validation accuracy = 64.0%
+2016-09-17 20:54:57.723061: Step 3350: Train accuracy = 97.0%
+2016-09-17 20:54:57.723213: Step 3350: Cross entropy = 0.193791
+2016-09-17 20:54:57.894926: Step 3350: Validation accuracy = 74.0%
+2016-09-17 20:54:59.684735: Step 3360: Train accuracy = 97.0%
+2016-09-17 20:54:59.684859: Step 3360: Cross entropy = 0.171918
+2016-09-17 20:54:59.857590: Step 3360: Validation accuracy = 64.0%
+2016-09-17 20:55:01.665622: Step 3370: Train accuracy = 100.0%
+2016-09-17 20:55:01.665749: Step 3370: Cross entropy = 0.109990
+2016-09-17 20:55:01.843264: Step 3370: Validation accuracy = 70.0%
+2016-09-17 20:55:03.657098: Step 3380: Train accuracy = 98.0%
+2016-09-17 20:55:03.657222: Step 3380: Cross entropy = 0.151274
+2016-09-17 20:55:03.829550: Step 3380: Validation accuracy = 68.0%
+2016-09-17 20:55:05.623695: Step 3390: Train accuracy = 99.0%
+2016-09-17 20:55:05.623819: Step 3390: Cross entropy = 0.151402
+2016-09-17 20:55:05.797592: Step 3390: Validation accuracy = 69.0%
+2016-09-17 20:55:07.601686: Step 3400: Train accuracy = 98.0%
+2016-09-17 20:55:07.601815: Step 3400: Cross entropy = 0.175351
+2016-09-17 20:55:07.777845: Step 3400: Validation accuracy = 69.0%
+2016-09-17 20:55:09.589578: Step 3410: Train accuracy = 100.0%
+2016-09-17 20:55:09.589706: Step 3410: Cross entropy = 0.149143
+2016-09-17 20:55:09.764347: Step 3410: Validation accuracy = 78.0%
+2016-09-17 20:55:11.574419: Step 3420: Train accuracy = 95.0%
+2016-09-17 20:55:11.574576: Step 3420: Cross entropy = 0.202232
+2016-09-17 20:55:11.746338: Step 3420: Validation accuracy = 79.0%
+2016-09-17 20:55:13.551794: Step 3430: Train accuracy = 98.0%
+2016-09-17 20:55:13.551964: Step 3430: Cross entropy = 0.153790
+2016-09-17 20:55:13.725634: Step 3430: Validation accuracy = 64.0%
+2016-09-17 20:55:15.539564: Step 3440: Train accuracy = 100.0%
+2016-09-17 20:55:15.539712: Step 3440: Cross entropy = 0.155084
+2016-09-17 20:55:15.713148: Step 3440: Validation accuracy = 64.0%
+2016-09-17 20:55:17.467738: Step 3450: Train accuracy = 98.0%
+2016-09-17 20:55:17.467862: Step 3450: Cross entropy = 0.167733
+2016-09-17 20:55:17.642230: Step 3450: Validation accuracy = 71.0%
+2016-09-17 20:55:19.406293: Step 3460: Train accuracy = 99.0%
+2016-09-17 20:55:19.406418: Step 3460: Cross entropy = 0.134980
+2016-09-17 20:55:19.578566: Step 3460: Validation accuracy = 67.0%
+2016-09-17 20:55:21.339231: Step 3470: Train accuracy = 99.0%
+2016-09-17 20:55:21.339355: Step 3470: Cross entropy = 0.192469
+2016-09-17 20:55:21.508837: Step 3470: Validation accuracy = 71.0%
+2016-09-17 20:55:23.325527: Step 3480: Train accuracy = 98.0%
+2016-09-17 20:55:23.326177: Step 3480: Cross entropy = 0.179380
+2016-09-17 20:55:23.503749: Step 3480: Validation accuracy = 68.0%
+2016-09-17 20:55:25.330156: Step 3490: Train accuracy = 100.0%
+2016-09-17 20:55:25.330281: Step 3490: Cross entropy = 0.122958
+2016-09-17 20:55:25.502639: Step 3490: Validation accuracy = 72.0%
+2016-09-17 20:55:27.337825: Step 3500: Train accuracy = 98.0%
+2016-09-17 20:55:27.337951: Step 3500: Cross entropy = 0.159114
+2016-09-17 20:55:27.508949: Step 3500: Validation accuracy = 69.0%
+2016-09-17 20:55:29.324225: Step 3510: Train accuracy = 99.0%
+2016-09-17 20:55:29.324351: Step 3510: Cross entropy = 0.139325
+2016-09-17 20:55:29.507052: Step 3510: Validation accuracy = 59.0%
+2016-09-17 20:55:31.334287: Step 3520: Train accuracy = 99.0%
+2016-09-17 20:55:31.334411: Step 3520: Cross entropy = 0.124763
+2016-09-17 20:55:31.508567: Step 3520: Validation accuracy = 72.0%
+2016-09-17 20:55:33.316333: Step 3530: Train accuracy = 100.0%
+2016-09-17 20:55:33.316457: Step 3530: Cross entropy = 0.115019
+2016-09-17 20:55:33.490642: Step 3530: Validation accuracy = 61.0%
+2016-09-17 20:55:35.272342: Step 3540: Train accuracy = 99.0%
+2016-09-17 20:55:35.272468: Step 3540: Cross entropy = 0.135535
+2016-09-17 20:55:35.446359: Step 3540: Validation accuracy = 67.0%
+2016-09-17 20:55:37.218822: Step 3550: Train accuracy = 100.0%
+2016-09-17 20:55:37.218946: Step 3550: Cross entropy = 0.127067
+2016-09-17 20:55:37.392560: Step 3550: Validation accuracy = 59.0%
+2016-09-17 20:55:39.171535: Step 3560: Train accuracy = 100.0%
+2016-09-17 20:55:39.171658: Step 3560: Cross entropy = 0.150594
+2016-09-17 20:55:39.344916: Step 3560: Validation accuracy = 63.0%
+2016-09-17 20:55:41.116698: Step 3570: Train accuracy = 99.0%
+2016-09-17 20:55:41.116823: Step 3570: Cross entropy = 0.143813
+2016-09-17 20:55:41.289105: Step 3570: Validation accuracy = 69.0%
+2016-09-17 20:55:43.071903: Step 3580: Train accuracy = 100.0%
+2016-09-17 20:55:43.072029: Step 3580: Cross entropy = 0.152378
+2016-09-17 20:55:43.243899: Step 3580: Validation accuracy = 68.0%
+2016-09-17 20:55:45.014391: Step 3590: Train accuracy = 100.0%
+2016-09-17 20:55:45.014516: Step 3590: Cross entropy = 0.164339
+2016-09-17 20:55:45.188229: Step 3590: Validation accuracy = 70.0%
+2016-09-17 20:55:46.979255: Step 3600: Train accuracy = 98.0%
+2016-09-17 20:55:46.979381: Step 3600: Cross entropy = 0.157115
+2016-09-17 20:55:47.152362: Step 3600: Validation accuracy = 69.0%
+2016-09-17 20:55:48.936232: Step 3610: Train accuracy = 98.0%
+2016-09-17 20:55:48.936359: Step 3610: Cross entropy = 0.183362
+2016-09-17 20:55:49.109599: Step 3610: Validation accuracy = 65.0%
+2016-09-17 20:55:50.903218: Step 3620: Train accuracy = 99.0%
+2016-09-17 20:55:50.903342: Step 3620: Cross entropy = 0.123940
+2016-09-17 20:55:51.076372: Step 3620: Validation accuracy = 66.0%
+2016-09-17 20:55:52.862389: Step 3630: Train accuracy = 100.0%
+2016-09-17 20:55:52.862512: Step 3630: Cross entropy = 0.170219
+2016-09-17 20:55:53.034100: Step 3630: Validation accuracy = 72.0%
+2016-09-17 20:55:54.821271: Step 3640: Train accuracy = 99.0%
+2016-09-17 20:55:54.821428: Step 3640: Cross entropy = 0.165730
+2016-09-17 20:55:54.996021: Step 3640: Validation accuracy = 68.0%
+2016-09-17 20:55:56.790915: Step 3650: Train accuracy = 99.0%
+2016-09-17 20:55:56.791041: Step 3650: Cross entropy = 0.167356
+2016-09-17 20:55:56.964241: Step 3650: Validation accuracy = 65.0%
+2016-09-17 20:55:58.748282: Step 3660: Train accuracy = 95.0%
+2016-09-17 20:55:58.748406: Step 3660: Cross entropy = 0.144188
+2016-09-17 20:55:58.920765: Step 3660: Validation accuracy = 68.0%
+2016-09-17 20:56:00.731902: Step 3670: Train accuracy = 100.0%
+2016-09-17 20:56:00.732027: Step 3670: Cross entropy = 0.137073
+2016-09-17 20:56:00.905986: Step 3670: Validation accuracy = 66.0%
+2016-09-17 20:56:02.689790: Step 3680: Train accuracy = 99.0%
+2016-09-17 20:56:02.689915: Step 3680: Cross entropy = 0.158367
+2016-09-17 20:56:02.861034: Step 3680: Validation accuracy = 63.0%
+2016-09-17 20:56:04.674382: Step 3690: Train accuracy = 99.0%
+2016-09-17 20:56:04.674509: Step 3690: Cross entropy = 0.153731
+2016-09-17 20:56:04.854495: Step 3690: Validation accuracy = 77.0%
+2016-09-17 20:56:06.657580: Step 3700: Train accuracy = 100.0%
+2016-09-17 20:56:06.657705: Step 3700: Cross entropy = 0.131409
+2016-09-17 20:56:06.831436: Step 3700: Validation accuracy = 76.0%
+2016-09-17 20:56:08.648875: Step 3710: Train accuracy = 97.0%
+2016-09-17 20:56:08.649000: Step 3710: Cross entropy = 0.167802
+2016-09-17 20:56:08.823619: Step 3710: Validation accuracy = 72.0%
+2016-09-17 20:56:10.638044: Step 3720: Train accuracy = 98.0%
+2016-09-17 20:56:10.638168: Step 3720: Cross entropy = 0.135786
+2016-09-17 20:56:10.819272: Step 3720: Validation accuracy = 68.0%
+2016-09-17 20:56:12.645755: Step 3730: Train accuracy = 98.0%
+2016-09-17 20:56:12.645879: Step 3730: Cross entropy = 0.165907
+2016-09-17 20:56:12.818319: Step 3730: Validation accuracy = 65.0%
+2016-09-17 20:56:14.639454: Step 3740: Train accuracy = 100.0%
+2016-09-17 20:56:14.639578: Step 3740: Cross entropy = 0.145556
+2016-09-17 20:56:14.810263: Step 3740: Validation accuracy = 71.0%
+2016-09-17 20:56:16.588520: Step 3750: Train accuracy = 100.0%
+2016-09-17 20:56:16.588646: Step 3750: Cross entropy = 0.135556
+2016-09-17 20:56:16.758250: Step 3750: Validation accuracy = 65.0%
+2016-09-17 20:56:18.526621: Step 3760: Train accuracy = 99.0%
+2016-09-17 20:56:18.526749: Step 3760: Cross entropy = 0.122187
+2016-09-17 20:56:18.698787: Step 3760: Validation accuracy = 70.0%
+2016-09-17 20:56:20.470273: Step 3770: Train accuracy = 99.0%
+2016-09-17 20:56:20.470399: Step 3770: Cross entropy = 0.150520
+2016-09-17 20:56:20.645698: Step 3770: Validation accuracy = 75.0%
+2016-09-17 20:56:22.442883: Step 3780: Train accuracy = 98.0%
+2016-09-17 20:56:22.443007: Step 3780: Cross entropy = 0.151626
+2016-09-17 20:56:22.618542: Step 3780: Validation accuracy = 68.0%
+2016-09-17 20:56:24.415663: Step 3790: Train accuracy = 99.0%
+2016-09-17 20:56:24.415788: Step 3790: Cross entropy = 0.139276
+2016-09-17 20:56:24.590285: Step 3790: Validation accuracy = 71.0%
+2016-09-17 20:56:26.380336: Step 3800: Train accuracy = 99.0%
+2016-09-17 20:56:26.380460: Step 3800: Cross entropy = 0.114775
+2016-09-17 20:56:26.554198: Step 3800: Validation accuracy = 71.0%
+2016-09-17 20:56:28.341169: Step 3810: Train accuracy = 100.0%
+2016-09-17 20:56:28.341293: Step 3810: Cross entropy = 0.117441
+2016-09-17 20:56:28.514347: Step 3810: Validation accuracy = 70.0%
+2016-09-17 20:56:30.311397: Step 3820: Train accuracy = 100.0%
+2016-09-17 20:56:30.311521: Step 3820: Cross entropy = 0.145017
+2016-09-17 20:56:30.485601: Step 3820: Validation accuracy = 69.0%
+2016-09-17 20:56:32.278571: Step 3830: Train accuracy = 98.0%
+2016-09-17 20:56:32.278693: Step 3830: Cross entropy = 0.156537
+2016-09-17 20:56:32.451557: Step 3830: Validation accuracy = 65.0%
+2016-09-17 20:56:34.246144: Step 3840: Train accuracy = 100.0%
+2016-09-17 20:56:34.246270: Step 3840: Cross entropy = 0.122503
+2016-09-17 20:56:34.419922: Step 3840: Validation accuracy = 65.0%
+2016-09-17 20:56:36.211191: Step 3850: Train accuracy = 99.0%
+2016-09-17 20:56:36.211314: Step 3850: Cross entropy = 0.153332
+2016-09-17 20:56:36.387505: Step 3850: Validation accuracy = 63.0%
+2016-09-17 20:56:38.196685: Step 3860: Train accuracy = 99.0%
+2016-09-17 20:56:38.196811: Step 3860: Cross entropy = 0.155613
+2016-09-17 20:56:38.371177: Step 3860: Validation accuracy = 65.0%
+2016-09-17 20:56:40.162193: Step 3870: Train accuracy = 100.0%
+2016-09-17 20:56:40.162319: Step 3870: Cross entropy = 0.160395
+2016-09-17 20:56:40.339712: Step 3870: Validation accuracy = 68.0%
+2016-09-17 20:56:42.129807: Step 3880: Train accuracy = 100.0%
+2016-09-17 20:56:42.129929: Step 3880: Cross entropy = 0.147310
+2016-09-17 20:56:42.304824: Step 3880: Validation accuracy = 73.0%
+2016-09-17 20:56:44.101172: Step 3890: Train accuracy = 98.0%
+2016-09-17 20:56:44.101297: Step 3890: Cross entropy = 0.157201
+2016-09-17 20:56:44.277003: Step 3890: Validation accuracy = 59.0%
+2016-09-17 20:56:46.207390: Step 3900: Train accuracy = 99.0%
+2016-09-17 20:56:46.207561: Step 3900: Cross entropy = 0.156659
+2016-09-17 20:56:46.431622: Step 3900: Validation accuracy = 68.0%
+2016-09-17 20:56:48.352364: Step 3910: Train accuracy = 96.0%
+2016-09-17 20:56:48.352563: Step 3910: Cross entropy = 0.129518
+2016-09-17 20:56:48.536005: Step 3910: Validation accuracy = 62.0%
+2016-09-17 20:56:50.648011: Step 3920: Train accuracy = 99.0%
+2016-09-17 20:56:50.648158: Step 3920: Cross entropy = 0.137565
+2016-09-17 20:56:50.857558: Step 3920: Validation accuracy = 64.0%
+2016-09-17 20:56:52.982569: Step 3930: Train accuracy = 100.0%
+2016-09-17 20:56:52.982708: Step 3930: Cross entropy = 0.145058
+2016-09-17 20:56:53.177387: Step 3930: Validation accuracy = 72.0%
+2016-09-17 20:56:55.228880: Step 3940: Train accuracy = 97.0%
+2016-09-17 20:56:55.229015: Step 3940: Cross entropy = 0.150489
+2016-09-17 20:56:55.428732: Step 3940: Validation accuracy = 67.0%
+2016-09-17 20:56:57.479618: Step 3950: Train accuracy = 98.0%
+2016-09-17 20:56:57.480054: Step 3950: Cross entropy = 0.136019
+2016-09-17 20:56:57.664388: Step 3950: Validation accuracy = 70.0%
+2016-09-17 20:56:59.569954: Step 3960: Train accuracy = 98.0%
+2016-09-17 20:56:59.570096: Step 3960: Cross entropy = 0.187503
+2016-09-17 20:56:59.771774: Step 3960: Validation accuracy = 66.0%
+2016-09-17 20:57:01.898269: Step 3970: Train accuracy = 100.0%
+2016-09-17 20:57:01.898395: Step 3970: Cross entropy = 0.141830
+2016-09-17 20:57:02.071392: Step 3970: Validation accuracy = 65.0%
+2016-09-17 20:57:03.850416: Step 3980: Train accuracy = 100.0%
+2016-09-17 20:57:03.850540: Step 3980: Cross entropy = 0.102682
+2016-09-17 20:57:04.020967: Step 3980: Validation accuracy = 62.0%
+2016-09-17 20:57:05.813735: Step 3990: Train accuracy = 100.0%
+2016-09-17 20:57:05.813861: Step 3990: Cross entropy = 0.112600
+2016-09-17 20:57:05.986058: Step 3990: Validation accuracy = 71.0%
+2016-09-17 20:57:07.594971: Step 3999: Train accuracy = 100.0%
+2016-09-17 20:57:07.595127: Step 3999: Cross entropy = 0.120438
+2016-09-17 20:57:07.770799: Step 3999: Validation accuracy = 70.0%
+Final test accuracy = 66.0%
+Converted 2 variables to const ops.
