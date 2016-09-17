@@ -59,7 +59,12 @@ Credit goes to [Xblaster](https://github.com/xblaster) for the majority of this 
 
 ---
 
-Models 1-4 were trained to guess which neural network art service an image was created with. Model 5 was trained on idenfiying two neural network art services, and a specific artist.
+#My Challenge Entries:
+
+- It can be hard to identify how and where a piece of artwork came from in the age of artistic style tranfer neural networks, so I have trained models to be able to identify which neural art service was used to create an image.
+
+
+- Models 1-4 were trained to guess which neural network art service an image was created with. Model 5 was trained on idenfiying two neural network art services, and a specific artist.
 
 
 #1. Model 1 has an accuracy of between 70-80%. 
