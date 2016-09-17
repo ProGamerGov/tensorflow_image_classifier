@@ -62,24 +62,30 @@ Credit goes to [Xblaster](https://github.com/xblaster) for the majority of this 
 Models 1-4 were trained to guess which neural network art service an image was created with. Model 5 was trained on idenfiying two neural network art services, and a specific artist.
 
 
-\1. Model 1 has an accuracy of between 70-80%. 
+/1. Model 1 has an accuracy of between 70-80%. 
 
 - Categories: Dreamscope, Prisma, Ostagram
 
-\2. Model 2 has a Final test accuracy = 61.0%. 
+/2. Model 2 has a Final test accuracy = 61.0%. 
 
 - Categories: Deepart, Pikazo, Prisma, Dreamscopeapp, Ostagram
 
-\3. Model 3 has a Final test accuracy = 90.2%. 
+/3. Model 3 has a Final test accuracy = 90.2%. 
 
 - Categories: Deepart, Ostagram
 
-\4. Model 4 has a Final test accuracy = 66.0%. 
+/4. Model 4 has a Final test accuracy = 66.0%. 
 
 - Categories: Deepart, Prisma, Pikazo, Ostagram
 
-\5. Model 5 has a . 
+/5. Model 5 has a . 
 
 - Categories: 
 
 
+The Deepart category had 432 images for training.
+The Pikazo category had 144 images for training.
+The Prisma category had 128 image for training.
+The Dreamscopeapp category had 923 images for training.
+The Ostagram category had 401 images for training.
+The Simon Stålenhag category had 725 images for training.
