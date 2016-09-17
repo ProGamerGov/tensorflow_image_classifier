@@ -72,19 +72,19 @@ Models 1-4 were trained to guess which neural network art service an image was c
 
 - Categories: Deepart, Pikazo, Prisma, Dreamscopeapp, Ostagram
 
-- Model Download:
+- Model Download: https://drive.google.com/open?id=0B--sVcawvPKfTkI0TFR6ZXRwbjQ
 
 #3. Model 3 has a Final test accuracy = 90.2%. 
 
 - Categories: Deepart, Ostagram
 
-- Model Download:
+- Model Download: https://drive.google.com/open?id=0B--sVcawvPKfclB6T21jVlA4Tkk
 
 #4. Model 4 has a Final test accuracy = 66.0%. 
 
 - Categories: Deepart, Prisma, Pikazo, Ostagram
  
-- Model Download:
+- Model Download: https://drive.google.com/open?id=0B--sVcawvPKfN2QtUkRQd1JpVGc
 
 #5. Model 5 has a . 
 
